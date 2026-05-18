@@ -1,49 +1,49 @@
 # ══════════════════════════════════════════════════════════════════════════════
-# HUGO BLOX CONFIGURATION
-# Schema: hugoblox.com/schema/v2
+# KONFIGURASI HUGO BLOX
+# Skema: hugoblox.com/schema/v2
 # Tutorial: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
+# Dokumentasi: https://docs.hugoblox.com/
 # ══════════════════════════════════════════════════════════════════════════════
 hugoblox:
   schema: "2.0"
 
   # ────────────────────────────────────────────────────────────────────────────
-  # IDENTITY
-  # Site-level branding (for people/profiles, use the author system in content/authors/)
+  # IDENTITAS
+  # Branding tingkat situs (untuk orang/profil, gunakan sistem author di content/authors/)
   # ────────────────────────────────────────────────────────────────────────────
   identity:
-    # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Angga Prastya Sianipar, S.Kom"
-    # Legal entity for copyright notices (defaults to name if not set)
+    # Nama situs - ditampilkan di navbar, footer, hak cipta, dan judul browser secara default
+    name: "Angga Prastya Sianipar"
+    # Badan hukum untuk pemberitahuan hak cipta (default menggunakan 'name' jika tidak diatur)
     organization: "Universitas Methodist Indonesia"
-    # Schema.org type for structured data
+    # Tipe Schema.org untuk data terstruktur
     type: person # person | organization | local_business
-    # Short tagline displayed on your site
-    tagline: "Informatics Engineering Graduate | Data Science & Machine Learning Enthusiast"
-    # Site meta description for search engines and social sharing
-    description: "Portofolio Profesional Angga Prastya Sianipar, S.Kom - Lulusan S1 Teknik Informatika Universitas Methodist Indonesia."
-    # Social accounts (used for meta tags like Twitter Cards)
+    # Slogan pendek yang ditampilkan di situs Anda
+    tagline: "Informatics Engineering | Machine Learning & Data Science Researcher"
+    # Deskripsi meta situs untuk mesin pencari dan pembagian ke media sosial
+    description: "Situs portofolio dan jurnal akademik Angga Prastya Sianipar. Berfokus pada implementasi machine learning, analisis prediktif, dan rekayasa perangkat lunak."
+    # Akun sosial (digunakan untuk tag meta seperti Twitter Cards)
     social:
-      twitter: "" # Kosongkan jika tidak ada
+      twitter: "" # Handle Twitter/X Anda jika ada (tanpa @)
 
   # ────────────────────────────────────────────────────────────────────────────
-  # THEME
-  # Color and visual design system
+  # TEMA
+  # Sistem desain visual dan warna
   # ────────────────────────────────────────────────────────────────────────────
   theme:
-    # Mode: 'light', 'dark', or 'system' (follows OS preference)
+    # Mode: 'light', 'dark', atau 'system' (mengikuti preferensi OS)
     mode: system
-    # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
+    # Paket tema: nama dari data/themes/ atau { light: "x", dark: "y" } untuk padu-padan
     pack: "default"
-    # Optional: Override theme pack colors
+    # Opsional: Mengesampingkan warna paket tema
     colors:
-      primary: "indigo" # Memberikan aksen warna indigo modern untuk anak IT
+      primary: "indigo" # Nama palet Tailwind atau hex (misal, "indigo" atau "#6366f1")
       secondary: ""
-      neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
-    # Optional: Mode-specific color overrides
+      neutral: "" # Mempengaruhi utilitas abu-abu (text-gray-*, bg-gray-*)
+    # Opsional: Pengesampingkan warna spesifik-mode
     colors_light: {}
     colors_dark: {}
-    # Optional: Semantic surface color overrides
+    # Opsional: Pengesampingkan warna permukaan semantik
     surfaces:
       background: ""
       foreground: ""
@@ -55,43 +55,43 @@ hugoblox:
         foreground: ""
 
   # ────────────────────────────────────────────────────────────────────────────
-  # TYPOGRAPHY
-  # Font and text sizing
+  # TIPOGRAFI
+  # Font dan ukuran teks
   # ────────────────────────────────────────────────────────────────────────────
   typography:
-    # Theme pack: name from data/fonts/
+    # Paket tema: nama dari data/fonts/
     pack: "academic"
 
   # ────────────────────────────────────────────────────────────────────────────
-  # LAYOUT
-  # Spacing and shape tokens
+  # TATA LETAK
+  # Token jarak dan bentuk
   # ────────────────────────────────────────────────────────────────────────────
   layout:
-    # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
+    # Radius batas (border radius): 'none', 'sm', 'md', 'lg', atau 'full'
     radius: "md"
-    # Spacing density: 'compact', 'comfortable', or 'spacious'
-    spacing: "comfortable"
-    # Avatar shape in author profiles
+    # Kepadatan jarak (spacing): 'compact', 'comfortable', atau 'spacious'
+    spacing: "spacious"
+    # Bentuk avatar pada profil penulis (author)
     avatar_shape: circle # circle | square | rounded
 
   # ────────────────────────────────────────────────────────────────────────────
   # HEADER
-  # Site header and navigation bar
+  # Header situs dan bilah navigasi
   # ────────────────────────────────────────────────────────────────────────────
   header:
     enable: true
-    # Header style variant
+    # Varian gaya header
     style: navbar # navbar | navbar-simple | minimal
-    # Stick to top on scroll
+    # Tetap di atas saat digulir (sticky)
     sticky: true
-    # Menu alignment
-    align: right # Mengubah menu navigasi ke sebelah kanan agar lebih rapi
-    # Feature toggles
+    # Penyelarasan menu
+    align: center # left | center | right
+    # Pengaktifan fitur
     search: true
     theme_toggle: true
-    theme_picker: false
+    theme_picker: true
     language_switcher: false
-    # Call-to-action button
+    # Tombol ajakan bertindak (Call-to-action)
     cta:
       enable: false
       text: ""
@@ -99,22 +99,22 @@ hugoblox:
 
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
-  # Site footer
+  # Footer situs
   # ────────────────────────────────────────────────────────────────────────────
   footer:
-    # Footer style variant
+    # Varian gaya footer
     style: minimal # minimal | columns | centered
     language_switcher: false
-    # Custom footer text (HTML supported)
+    # Teks footer kustom (mendukung HTML)
     text: ""
 
   # ────────────────────────────────────────────────────────────────────────────
-  # COPYRIGHT
-  # Legal notices and licensing
+  # HAK CIPTA
+  # Pemberitahuan hukum dan lisensi
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
-    # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. All Rights Reserved."
+    # Pemberitahuan hak cipta - mendukung placeholder {year}, {name}, {license}
+    notice: "© {year} {name}. Seluruh hak cipta dilindungi undang-undang."
     license:
       type: custom # cc | custom
       allow_derivatives: false
@@ -123,63 +123,63 @@ hugoblox:
 
   # ────────────────────────────────────────────────────────────────────────────
   # SEO
-  # Search engine optimization - overrides and technical settings
+  # Optimalisasi mesin pencari - pengesampingkan dan pengaturan teknis
   # ────────────────────────────────────────────────────────────────────────────
   seo:
-    # Browser tab title override (defaults to identity.name if not set)
-    title: "Angga Prastya Sianipar | Portofolio"
-    # For local_business identity type only
+    # Pengesampingkan judul tab browser (default menggunakan identity.name jika tidak diatur)
+    title: "Angga Prastya Sianipar | Portfolio & Academic Blog"
+    # Hanya untuk tipe identitas local_business
     location:
       address:
         street: ""
-        city: "Medan"
-        region: "Sumatera Utara"
+        city: ""
+        region: ""
         postal_code: ""
-        country: "Indonesia"
+        country: ""
       coordinates:
         latitude: null
         longitude: null
       phone: ""
-    # AI/LLM crawler guidance (llms.txt)
+    # Panduan crawler AI/LLM (llms.txt)
     ai:
       allow:
         - /
       disallow: []
-      note: "Guidance for AI crawlers - customize to match your public content."
+      note: "Panduan untuk AI crawler - disesuaikan agar indeksasi fokus pada karya ilmiah dan portofolio pribadi saya."
       contact: ""
 
   # ────────────────────────────────────────────────────────────────────────────
-  # CONTENT
-  # Content rendering and behavior
+  # KONTEN
+  # Perenderan dan perilaku konten
   # ────────────────────────────────────────────────────────────────────────────
   content:
-    # Math rendering
+    # Perenderan Matematika (aktifkan menjadi true jika artikel jurnal Anda menggunakan rumus statistik/matematika)
     math:
-      enable: false
-    # Table of contents
+      enable: true
+    # Daftar isi (Table of contents)
     toc:
       enable: true
-    # Reading time estimates
+    # Perkiraan waktu membaca
     reading_time:
       enable: true
-    # Academic citations
+    # Sitasi akademik
     citations:
       style: apa # apa | mla | chicago | ieee
 
   # ────────────────────────────────────────────────────────────────────────────
-  # SEARCH
-  # Site search
+  # PENCARIAN
+  # Pencarian situs
   # ────────────────────────────────────────────────────────────────────────────
   search:
     enable: true
-    # Trending/suggested search terms
-    suggestions: []
-    # Quick action shortcuts in search modal
+    # Istilah pencarian yang tren/disarankan
+    suggestions: ["Machine Learning", "Analisis Prediktif", "Python", "Jurnal"]
+    # Pintasan tindakan cepat di modal pencarian
     quick_actions: []
 
   # ────────────────────────────────────────────────────────────────────────────
-  # COMMENTS
-  # User comments system
+  # KOMENTAR
+  # Sistem komentar pengguna
   # ────────────────────────────────────────────────────────────────────────────
   comments:
     enable: false
@@ -193,8 +193,8 @@ hugoblox:
       shortname: ""
 
   # ────────────────────────────────────────────────────────────────────────────
-  # ANALYTICS
-  # Traffic and behavior analytics
+  # ANALITIK
+  # Analitik lalu lintas dan perilaku pengunjung
   # ────────────────────────────────────────────────────────────────────────────
   analytics:
     google:
@@ -213,8 +213,8 @@ hugoblox:
       site_id: ""
 
   # ────────────────────────────────────────────────────────────────────────────
-  # VERIFICATION
-  # Search engine site verification codes
+  # VERIFIKASI
+  # Kode verifikasi situs untuk mesin pencari
   # ────────────────────────────────────────────────────────────────────────────
   verification:
     google: ""
@@ -225,46 +225,46 @@ hugoblox:
     naver: ""
 
   # ────────────────────────────────────────────────────────────────────────────
-  # REPOSITORY
-  # Source code repository for "Edit this page" links
+  # REPOSITORI
+  # Repositori kode sumber untuk tautan "Edit halaman ini"
   # ────────────────────────────────────────────────────────────────────────────
   repository:
-    enable: false
-    url: "" # e.g., https://github.com/username/repo
+    enable: true
+    url: "https://github.com/anggasianipar1/portofolio-angga" # Repositori GitHub portofolio pribadi Anda
     branch: main
     content_dir: content
 
   # ────────────────────────────────────────────────────────────────────────────
-  # LOCALE
-  # Regional formatting preferences
+  # LOKALISASI (LOCALE)
+  # Preferensi format regional
   # ────────────────────────────────────────────────────────────────────────────
   locale:
-    date_format: "Jan 2, 2006" # Go time format
-    time_format: "3:04 PM"
-    address_format: en-us
+    date_format: "2 Jan 2006" # Format tanggal Indonesia (contoh: 18 Mei 2026)
+    time_format: "15:04"
+    address_format: id
 
   # ────────────────────────────────────────────────────────────────────────────
-  # SECURITY
-  # Security headers and policies (requires Netlify integration)
+  # KEAMANAN
+  # Header dan kebijakan keamanan (memerlukan integrasi Netlify)
   # ────────────────────────────────────────────────────────────────────────────
   security:
     csp:
       policy: ""
       report_only: false
-    frame_options: allow # deny | sameorigin | allow - allow enables iframe embedding
+    frame_options: sameorigin # deny | sameorigin | allow - diatur ke sameorigin demi keamanan situs pribadi
     permissions_policy: ""
 
   # ────────────────────────────────────────────────────────────────────────────
-  # PRIVACY
-  # Privacy and compliance features
+  # PRIVASI
+  # Fitur privasi dan kepatuhan
   # ────────────────────────────────────────────────────────────────────────────
   privacy:
-    enable: false
+    enable: true
     anonymize_analytics: true
 
   # ────────────────────────────────────────────────────────────────────────────
   # DEBUG
-  # Development and debugging (hidden in production)
+  # Pengembangan dan debugging (tersembunyi di produksi)
   # ────────────────────────────────────────────────────────────────────────────
   debug:
     enable: false
@@ -275,15 +275,15 @@ hugoblox:
 
   # ────────────────────────────────────────────────────────────────────────────
   # PREMIUM
-  # Premium features and creator program (affiliates)
+  # Fitur premium dan program kreator (afiliasi)
   # ────────────────────────────────────────────────────────────────────────────
   pro:
-    # Hide "Powered by HugoBlox" attribution
-    # Requires: HugoBlox Premium to support HugoBlox via alternative means
-    # Note: Even with Premium, you can keep this false to support open source!
-    # Get Premium: https://hugoblox.com/premium
+    # Sembunyikan atribusi "Powered by HugoBlox"
+    # Memerlukan: HugoBlox Premium untuk mendukung HugoBlox melalui jalur alternatif
+    # Catatan: Nilai ini bisa tetap 'false' untuk mendukung open source meskipun Anda menggunakan Premium!
+    # Dapatkan Premium: https://hugoblox.com/premium
     hide_attribution: false
 
-    # Affiliate referral code for rewards program
-    # Join affiliate program: https://hugoblox.com/affiliates
+    # Kode rujukan afiliasi untuk program hadiah
+    # Bergabung dengan program afiliasi: https://hugoblox.com/affiliates
     affiliate_code: ""
