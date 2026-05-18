@@ -230,7 +230,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   repository:
     enable: true
-    url: "https://github.com/anggasianipar1/portofolio-angga" # Repositori GitHub portofolio pribadi Anda
+    url: "https://github.com/AnggaPrastyaSianipar/portofolio-angga" # Repositori GitHub portofolio pribadi Anda
     branch: main
     content_dir: content
 
