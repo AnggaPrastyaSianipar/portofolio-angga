@@ -16,7 +16,7 @@ hugoblox:
     name: "Angga Prastya Sianipar"
     # Badan hukum untuk pemberitahuan hak cipta (default menggunakan 'name' jika tidak diatur)
     organization: "Universitas Methodist Indonesia"
-    # Tipe Schema.org untuk data terstruktur
+    # Tipe Schema.org untuk data terstructured
     type: person # person | organization | local_business
     # Slogan pendek yang ditampilkan di situs Anda
     tagline: "Informatics Engineering | Machine Learning & Data Science Researcher"
@@ -244,23 +244,23 @@ hugoblox:
     address_format: en-us
 
   # ────────────────────────────────────────────────────────────────────────────
-  # KEAMANAN
-  # Header dan kebijakan keamanan (memerlukan integrasi Netlify)
-  # ────────────────────────────────────────────────────────────────────────────
-  security:
-    csp:
-      policy: ""
-      report_only: false
-    frame_options: sameorigin # deny | sameorigin | allow - diatur ke sameorigin demi keamanan situs pribadi
-    permissions_policy: ""
-
-  # ────────────────────────────────────────────────────────────────────────────
   # PRIVASI
   # Fitur privasi dan kepatuhan
   # ────────────────────────────────────────────────────────────────────────────
   privacy:
     enable: true
     anonymize_analytics: true
+
+  # ────────────────────────────────────────────────────────────────────────────
+  # FITUR BERBAGI (SHARING BUTTONS)
+  # 5 Ikon utama yang dikunci untuk komunikasi langsung (Pesan/Chat/Email)
+  # ────────────────────────────────────────────────────────────────────────────
+  sharing:
+    twitter: true     # Dipertahankan untuk share link via platform obrolan X
+    facebook: false   # Dimatikan karena API Facebook memaksa share ke feed publik
+    email: true       # Otomatis membuka email personal baru (Kirim pesan pribadi)
+    linkedin: false   # Dimatikan karena API LinkedIn memaksa share ke feed publik
+    whatsapp: true    # Otomatis membuka aplikasi WhatsApp (Kirim chat personal/grup)
 
   # ────────────────────────────────────────────────────────────────────────────
   # DEBUG

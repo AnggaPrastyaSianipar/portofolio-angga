@@ -15,7 +15,7 @@ interests:
 
 organizations:
   - name: "Universitas Methodist Indonesia"
-    url: ""
+    url: "https://www.methodist.ac.id"
 
 education:
   courses:
