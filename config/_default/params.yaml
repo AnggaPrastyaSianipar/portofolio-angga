@@ -153,7 +153,7 @@ hugoblox:
   # Perenderan dan perilaku konten
   # ────────────────────────────────────────────────────────────────────────────
   content:
-    # Perenderan Matematika (aktifkan menjadi true jika artikel jurnal Anda menggunakan rumus statistik/matematika)
+    # Perenderan Matematika
     math:
       enable: true
     # Daftar isi (Table of contents)
@@ -239,9 +239,9 @@ hugoblox:
   # Preferensi format regional
   # ────────────────────────────────────────────────────────────────────────────
   locale:
-    date_format: "2 Jan 2006" # Format tanggal Indonesia (contoh: 18 Mei 2026)
-    time_format: "15:04"
-    address_format: id
+    date_format: "Jan 2, 2006" # Dikembalikan ke format standar Go Hugo bawaan
+    time_format: "3:04 PM"
+    address_format: en-us
 
   # ────────────────────────────────────────────────────────────────────────────
   # KEAMANAN
