@@ -85,8 +85,9 @@ experience:
       </details>
     button:
       text: Open S-TIX Project
-      url: https://s-ticket.online/
+      url: https://github.com/AnggaPrastyaSianipar/S-TIX-ProjecKelompoktMSIB/
       icon: hero/arrow-top-right-on-square
+    
 
   - role: Field Work Practice (PKL) - Web Developer & IT Support
     org: BPJS Ketenagakerjaan Medan Kota Branch Office
@@ -101,7 +102,7 @@ experience:
       </ul>
     button:
       text: Open PKL Project
-      url: '#certificate-list'
+      url: https://github.com/AnggaPrastyaSianipar/PKL
       icon: hero/arrow-top-right-on-square
 
   - role: Student Intern - Administrative Assistant & Data Management

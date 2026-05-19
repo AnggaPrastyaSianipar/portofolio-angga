@@ -1,5 +1,5 @@
 ---
 title: "LinkedIn"
-summary: "Tempat saya membangun jaringan profesional, berdiskusi seputar Software Engineering, dan karir resmi."
-type: post
+summary: "Profil LinkedIn saya"
+external_link: "https://www.linkedin.com/in/anggasianipar/"
 ---
