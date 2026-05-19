@@ -1,27 +1,24 @@
 # ══════════════════════════════════════════════════════════════════════════════
-# KONFIGURASI HUGO BLOX
-# Skema: hugoblox.com/schema/v2
-# Tutorial: https://docs.hugoblox.com/tutorial/
-# Dokumentasi: https://docs.hugoblox.com/
+# KONFIGURASI PORTFOLIO
 # ══════════════════════════════════════════════════════════════════════════════
 hugoblox:
   schema: "2.0"
 
   # ────────────────────────────────────────────────────────────────────────────
   # IDENTITAS
-  # Branding tingkat situs (untuk orang/profil, gunakan sistem author di content/authors/)
+  # Branding tingkat situs
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Nama situs - ditampilkan di navbar, footer, hak cipta, dan judul browser secara default
     name: "Angga Prastya Sianipar"
-    # Badan hukum untuk pemberitahuan hak cipta (default menggunakan 'name' jika tidak diatur)
-    organization: "Universitas Methodist Indonesia"
-    # Tipe Schema.org untuk data terstructured
+    # Badan hukum untuk pemberitahuan hak cipta (kosong agar tidak double di footer)
+    organization: ""
+    # Tipe Schema.org untuk data terstruktur
     type: person # person | organization | local_business
     # Slogan pendek yang ditampilkan di situs Anda
-    tagline: "Informatics Engineering | Machine Learning & Data Science Researcher"
+    tagline: "Web Developer | Back-End Engineer | Informatics Engineering Graduate"
     # Deskripsi meta situs untuk mesin pencari dan pembagian ke media sosial
-    description: "Situs portofolio dan jurnal akademik Angga Prastya Sianipar. Berfokus pada implementasi machine learning, analisis prediktif, dan rekayasa perangkat lunak."
+    description: "Angga Prastya Sianipar's professional portfolio site. Focusing on web application development, back-end engineering, database management, and software architecture."
     # Akun sosial (digunakan untuk tag meta seperti Twitter Cards)
     social:
       twitter: "" # Handle Twitter/X Anda jika ada (tanpa @)
@@ -105,8 +102,8 @@ hugoblox:
     # Varian gaya footer
     style: minimal # minimal | columns | centered
     language_switcher: false
-    # Teks footer kustom (mendukung HTML)
-    text: ""
+    # BERHASIL DIUBAH: Ditambahkan selektor CSS kustom untuk menghilangkan tombol promosi "Build your site" (termasuk ikon petirnya)
+    text: '<style>.cc-attribution, .powered-by-link, a[href*="github.com/hugoblox/hugo-blox-builder"] { display: none !important; } .powered-by a, .v2-footer a, a[href*="hugoblox.com"], a[href*="wowchemy.com"] { pointer-events: none !important; cursor: default !important; color: inherit !important; text-decoration: none !important; }</style>'
 
   # ────────────────────────────────────────────────────────────────────────────
   # HAK CIPTA
@@ -127,7 +124,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Pengesampingkan judul tab browser (default menggunakan identity.name jika tidak diatur)
-    title: "Angga Prastya Sianipar | Portfolio & Academic Blog"
+    title: "Angga Prastya Sianipar | Web Developer & Back-End Engineer Portfolio"
     # Hanya untuk tipe identitas local_business
     location:
       address:
@@ -145,7 +142,7 @@ hugoblox:
       allow:
         - /
       disallow: []
-      note: "Panduan untuk AI crawler - disesuaikan agar indeksasi fokus pada karya ilmiah dan portofolio pribadi saya."
+      note: "Panduan untuk AI crawler - disesuaikan agar indeksasi fokus pada proyek portofolio pengembangan perangkat lunak saya."
       contact: ""
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -173,7 +170,7 @@ hugoblox:
   search:
     enable: true
     # Istilah pencarian yang tren/disarankan
-    suggestions: ["Machine Learning", "Analisis Prediktif", "Python", "Jurnal"]
+    suggestions: ["Back-End", "Web Development", "Python", "MySQL", "API", "Software Engineering"]
     # Pintasan tindakan cepat di modal pencarian
     quick_actions: []
 
@@ -278,12 +275,8 @@ hugoblox:
   # Fitur premium dan program kreator (afiliasi)
   # ────────────────────────────────────────────────────────────────────────────
   pro:
-    # Sembunyikan atribusi "Powered by HugoBlox"
-    # Memerlukan: HugoBlox Premium untuk mendukung HugoBlox melalui jalur alternatif
-    # Catatan: Nilai ini bisa tetap 'false' untuk mendukung open source meskipun Anda menggunakan Premium!
-    # Dapatkan Premium: https://hugoblox.com/premium
-    hide_attribution: false
+    # Mengaktifkan opsi internal untuk menyembunyikan tautan luar
+    hide_attribution: true
 
     # Kode rujukan afiliasi untuk program hadiah
-    # Bergabung dengan program afiliasi: https://hugoblox.com/affiliates
     affiliate_code: ""

@@ -3,15 +3,15 @@
 title: "Angga Prastya Sianipar"
 
 # Peran/Gelar di bawah nama
-role: "Informatics Engineering Student / Researcher"
+role: "Web Developer | Back-End Engineer | Informatics Engineering Graduate"
 
 # Teks biografi singkat (Professional Summary) di sebelah kanan foto
-bio: "Saya adalah seorang mahasiswa Teknik Informatika yang berfokus pada implementasi machine learning, analisis prediktif, dan pengembangan perangkat lunak."
+bio: "Angga Prastya Sianipar adalah lulusan terbaik (*Cum Laude*) program studi Teknik Informatika dari Universitas Methodist Indonesia yang spesifik bergerak di bidang pengembangan web dan rekayasa *back-end*. Memiliki keahlian kuat dalam merancang arsitektur perangkat lunak, mengelola basis data yang efisien, serta membangun API yang aman dan skalabel. Proaktif dalam mentransformasikan logika bisnis menjadi sistem aplikasi *backend* yang optimal, stabil, dan siap industri."
 
 interests:
-  - Machine Learning
-  - Data Science
   - Web Development
+  - Back-End Engineering
+  - Database Management
 
 organizations:
   - name: "Universitas Methodist Indonesia"
@@ -19,9 +19,9 @@ organizations:
 
 education:
   courses:
-    - course: "S1 Teknik Informatika"
+    - course: "S1 Teknik Informatika (S.Kom)"
       institution: "Universitas Methodist Indonesia"
       year: 2026
 ---
 
-Saya adalah mahasiswa Teknik Informatika di Universitas Methodist Indonesia yang berfokus pada penelitian sains data dan pengembangan sistem cerdas.
+Lulusan Teknik Informatika dari Universitas Methodist Indonesia yang berfokus pada pengembangan aplikasi web, rekayasa back-end, dan manajemen basis data.

@@ -1,3 +1,4 @@
+---
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
@@ -11,10 +12,12 @@ name:
 postnominals:
   - S.Kom
 status:
-  icon: "💻"
-role: Informatics Engineering Student / Machine Learning Researcher
+  icon: ""
+
+role: "Web Developer | Back-End Engineer | Informatics Engineering Graduate"
+
 bio: |
-  Angga Prastya Sianipar adalah seorang sarjana/mahasiswa tingkat akhir Teknik Informatika di Universitas Methodist Indonesia. Berfokus pada riset sains data dan kecerdasan buatan, ia mendedikasikan studinya untuk mengimplementasikan algoritma pembelajaran mesin guna menyelesaikan berbagai analisis prediktif dan optimasi sistem perangkat lunak yang relevan dengan kebutuhan industri maupun masyarakat.
+  Angga Prastya Sianipar is a top-tier honors (Cum Laude) graduate in Informatics Engineering from Universitas Methodist Indonesia, specializing in web development and back-end engineering. He possesses strong expertise in designing software architecture, managing efficient databases, and building secure, scalable APIs. Proactive and driven, he excels at transforming complex business logic into optimized, stable, and production-ready back-end applications.
 
 affiliations:
   - name: Universitas Methodist Indonesia
@@ -22,75 +25,147 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:anggasianipar2@gmail.com # Ganti dengan email aktif Anda
+    url: mailto:anggasianipar2@gmail.com
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/AnggaPrastyaSianipar
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/angga-sianipar # Ganti sesuai URL LinkedIn Anda jika ada
+    url: https://www.linkedin.com/in/angga-sianipar
 
 interests:
-  - Machine Learning
-  - Data Science
-  - Predictive Analysis
-  - Web Development (Python & Java)
+  - Back-End Engineering
+  - Web Application Development
+  - Database Architecture & Optimization
+  - Software Testing & Automation
 
 education:
-  - degree: S1 Teknik Informatika
-    institution: Universitas Methodist Indonesia
+  - degree: Bachelor of Computer Science (S.Kom) in Informatics Engineering
+    institution: Universitas Methodist Indonesia (Faculty of Computer Science)
     start: 2022-09-01
     end: 2026-02-26
     summary: |
-      Fokus pada riset implementasi algoritma Machine Learning seperti K-Nearest Neighbors, K-Means Clustering, dan Exponential Moving Average untuk analisis prediktif saham dan klasifikasi data wilayah. Aktif dalam penulisan jurnal ilmiah nasional terakreditasi.
+      Jl. Hang Tuah No. 08, Medan, North Sumatra. <br>
+      <strong>GPA: 3.85 / 4.00 (Cum Laude Honors)</strong> <br>
+      <em>Completed the undergraduate program on an accelerated track within 3.5 years and officially graduated on May 7, 2026.</em> <br>
+      <strong>Thesis Title:</strong> TECHNICAL ANALYSIS OF BANK NEGARA INDONESIA STOCK PRICE MOVEMENTS USING COMPUTATIONAL EXPONENTIAL MOVING AVERAGE (EMA) METHOD.
     button:
-      text: Unduh / CV
-      url: /resume.pdf  # Taruh file PDF Anda di folder static/resume.pdf jika ingin tombol ini berfungsi
+      text: Download CV / Resume
+      url: /uploads/CVANGGA.pdf
       icon: hero/arrow-down-tray
 
 experience:
-  - role: Peserta Studi Independen - Front-End & Back-End Developer
-    org: PT Presentologic (Mitra Dicoding)
-    start: 2026-03-01
+  - role: Graduate Independent Study - Front-End & Back-End Developer
+    org: PT Presentologics (Dicoding Partner)
+    start: 2024-09-01
+    end: 2024-12-31
     summary: |
-      Mengikuti program pengembangan kompetensi terstruktur untuk arsitektur pengembangan web tingkat lanjut, pengelolaan basis data, dan sinkronisasi sistem hulu ke hilir.
+      Successfully completed the Kampus Merdeka Certified Independent Study (MSIB) Batch 7 program, accumulating hundreds of hours of intensive learning from foundational to expert levels, and successfully designed production-grade applications in a team environment.
+      <ul>
+        <li><strong>Best Capstone Project (S-TIX):</strong> Collaborated in a cross-functional team to build <em>S-TIX (Ticketing Management System)</em>, an integrated e-commerce concert ticketing platform. Fully responsible for designing the back-end architecture, database structuring, and optimizing the application UI/UX using React.</li>
+        <li><strong>Front-End Web Development Expert:</strong> Mastered the <em>Mobile-First Approach</em>, web performance optimization through comprehensive audits, web accessibility implementation (WCAG), building <em>Progressive Web Apps (PWA)</em>, and integrating automated system testing (Unit, Integration, & E2E Test).</li>
+        <li><strong>Back-End Web Architecture & Cloud:</strong> Built cloud computing infrastructure and secure RESTful APIs using Node.js runtime and Hapi framework. Experienced in deploying independent web services on Amazon Web Services (AWS) EC2 cloud infrastructure.</li>
+        <li><strong>Data Management & Software Engineering:</strong> Proficient in version control and team collaboration workflows (branching, conflict resolution, code review) using Git & GitHub. Capable of consuming and automating web service test suites with Postman.</li>
+      </ul>
+      
+      <details id="certificate-list" style="margin-top: 15px; padding: 10px; border: 1px solid #a855f7; border-radius: 6px; background-color: rgba(168, 85, 247, 0.05);">
+        <summary style="cursor: pointer; font-weight: bold; color: #a855f7;">👉 Click here to view the list of 10 Certificates of Completion</summary>
+        <ol style="margin-top: 10px; padding-left: 20px; line-height: 1.6;">
+          <li><strong>Best Capstone Project Certificate</strong> — Ticketing Management System Design (S-TIX)</li>
+          <li><strong>Mastering Front-End Web Development Expert</strong> — Google Developers Authorized Training Partner (100 Hours)</li>
+          <li><strong>Learning Fundamental Front-End Web Development</strong> — Google Developers Authorized Training Partner (80 Hours)</li>
+          <li><strong>Building Front-End Web Apps for Beginners</strong> — Industry Standard Curriculum (45 Hours)</li>
+          <li><strong>Learning Basic Web Pemrograman</strong> — Google Developers Authorized Training Partner (41 Hours)</li>
+          <li><strong>Building Back-End for Beginners with JavaScript</strong> — AWS International Standard Curriculum (45 Hours)</li>
+          <li><strong>Learning Basic JavaScript Programming</strong> — AWS Competency Validation Graduate (46 Hours)</li>
+          <li><strong>Learning Basic Git with GitHub</strong> — Version Control & Team Collaboration (15 Hours)</li>
+          <li><strong>Starting Basic Programming to Become a Software Developer</strong> — KBJI Occupation Standard (9 Hours)</li>
+          <li><strong>Introduction to Programming Logic (Programming Logic 101)</strong> — Computational Thinking (7 Hours)</li>
+          <li><strong>Building a Career as a Software Developer</strong> — Industry Career Path Introduction (7 Hours)</li>
+        </ol>
+      </details>
     button:
-      text: Lihat Portofolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: Praktik Kerja Lapangan (PKL)
-    org: BPJS Ketenagakerjaan Medan
-    start: 2025-08-01
-    end: 2025-10-31
+      text: Open S-TIX Project
+      url: https://s-ticket.online/
+      icon: hero/arrow-top-right-on-square
+
+  - role: Field Work Practice (PKL) - Web Developer & IT Support
+    org: BPJS Ketenagakerjaan Medan Kota Branch Office
+    start: 2025-07-28
+    end: 2025-09-08
     summary: |
-      Membantu pengelolaan administrasi data, optimasi alur kerja digital, dan memahami implementasi sistem informasi pada instansi jaminan sosial nasional.
+      Executed field work practice focusing on software engineering to optimize operational efficiency and quality of service for the Death Security (JKM) program:
+      <ul>
+        <li><strong>Application Design & Development:</strong> Designed and developed a web-based <em>JKM Visit Scheduling System</em> to automate the field inspection scheduling for officers, minimizing schedule conflicts and accelerating claim processing for beneficiaries.</li>
+        <li><strong>Relational Database Management:</strong> Engineered an integrated database structure (MySQL) to store centralized visit logs, ensuring data consistency and facilitating easy status tracking for operational management.</li>
+        <li><strong>Systems Analysis & Troubleshooting:</strong> Identified technical bottlenecks in daily manual operational workflows, provided dedicated technical support (IT Support), and formulated digitalization recommendations for the national social security information system.</li>
+      </ul>
+    button:
+      text: Open PKL Project
+      url: '#certificate-list'
+      icon: hero/arrow-top-right-on-square
+
+  - role: Student Intern - Administrative Assistant & Data Management
+    org: Regional Civil Service Agency (BKD) of North Sumatra Province
+    start: 2025-02-10
+    end: 2025-03-07
+    summary: |
+      Actively contributed to supporting operational administration management and internal data validation within the local government agency:
+      <ul>
+        <li><strong>Document Management & Administration:</strong> Responsible for organizing, archiving, and managing civil service personnel files to ensure staff career tracking records were systematically structured.</li>
+        <li><strong>Data Validation & Synchronization:</strong> Assisted in data entry, verification, and maintenance of civil servant databases to minimize administrative errors within the agency's internal information system.</li>
+        <li><strong>Operational Coordination:</strong> Collaborated with cross-functional units to support smooth information distribution, handling daily official correspondence, and optimizing routine administrative workloads.</li>
+      </ul>
+      <ul>
+        <strong>Note:</strong> Certificates can be viewed via the Certificates link in the navigation bar.
+      </ul>
+
+  - role: Teaching Assistant (Computer Laboratory)
+    org: Universitas Methodist Indonesia (Faculty of Computer Science)
+    start: 2024-09-09
+    end: 2025-08-31
+    summary: |
+      Jl. Hang Tuah No. 08, Medan, North Sumatra. <br>
+      Entrusted as a Teaching Assistant for 2 consecutive terms (Semester 5 and Semester 6) to support academic activities, laboratory practical sessions, and students' comprehension of core concepts:
+      <ul>
+        <li><strong>Web Programming & Web Design:</strong> Guided students in mastering foundational HTML5, CSS3, JavaScript, responsive layouting techniques, DOM manipulation, and database integration for dynamic web applications.</li>
+        <li><strong>Database Systems:</strong> Led laboratory sessions on relational database engineering, covering Entity-Relationship Diagram (ERD) design, data normalization, and SQL query proficiency (DDL & DML) using MySQL.</li>
+        <li><strong>Operating Systems:</strong> Provided instructional support regarding process management, memory scheduling, file systems, and command-line interface execution in operating system environments.</li>
+      </ul>
 
 skills:
-  - name: Keahlian Teknis
+  - name: Core Competencies
     items:
-      - label: Python (Pandas, Scikit-Learn, PyQt5)
+      - label: Web Development (Node.js, Express/Hapi, React, HTML/CSS/JS)
         level: 5
-      - label: Machine Learning & Sains Data
+      - label: Database Architecture & Management (MySQL)
         level: 5
-      - label: Pengembangan Basis Data (MySQL)
+      - label: PHP (Native & Laravel Framework)
         level: 4
-  - name: Riset & Komunikasi
+      - label: Python (System Programming & Scripting)
+        level: 4
+  - name: Software Engineering & Research
     items:
-      - label: Penulisan Jurnal Ilmiah
+      - label: Software Testing (Automation, Unit & E2E Testing)
         level: 4
-      - label: Analisis Komputasional & CFD
+      - label: Version Control & Collaboration (Git & GitHub)
+        level: 5
+      - label: Computational Analysis & Technical Documentation
         level: 4
 
 languages:
-  - name: Bahasa Indonesia
+  - name: Indonesian
     level: 5
     label: Native
   - name: English
     level: 3
-    label: Pasif / Intermediate
+    label: Passive / Intermediate
 
 awards:
-  - title: Lulus Ujian Meja Hijau (Sidang Skripsi)
-    awarder: Fakultas Ilmu Komputer, UMI
+  - title: Passed Thesis Defense Examination (Ujian Meja Hijau)
+    awarder: Faculty of Computer Science, UMI
     date: "2026-02-26"
-    summary: Menyelesaikan pertahanan tugas akhir terkait implementasi sistem cerdas analisis prediksi dengan hasil yang memuaskan.
+    summary: Successfully defended the graduation research project on computational trend analysis, graduating with Cum Laude honors (GPA 3.85) within an accelerated study period of 3.5 years.
     icon: hero/trophy
+---
+
+Informatics Engineering graduate from Universitas Methodist Indonesia, focusing on web application development, back-end engineering, and database management.

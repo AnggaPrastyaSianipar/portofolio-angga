@@ -35,14 +35,14 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Selamat datang di situs portofolio akademik saya. Saya adalah seorang peneliti di bidang Teknik Informatika yang berfokus pada pemanfaatan sains data dan kecerdasan buatan untuk menyelesaikan studi analisis prediktif.
+       Welcome to my professional portfolio. I am an Informatics Engineering graduate specializing in software engineering, back-end architecture, and the development of scalable web applications.
 
-        Saya menerapkan berbagai metode komputasi, pengembangan perangkat lunak, serta analisis kuantitatif untuk menginvestigasi peran teknologi cerdas di era digital.
+       By leveraging efficient computational approaches, optimized relational database management, and clean code practices, I am committed to building stable, secure, and production-ready digital infrastructures.
 
-        Silakan hubungi saya untuk kolaborasi riset, diskusi proyek ilmiah, maupun kerja sama profesional 😃
+       Feel free to reach out to me for project collaborations, software engineering discussions, or professional career opportunities
     design:
       columns: '1'
   - block: collection
