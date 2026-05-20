@@ -32,11 +32,18 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/angga-sianipar
 
-interests:
-  - Back-End Engineering
-  - Web Application Development
-  - Database Architecture & Optimization
+Hard Skills:
+  - Back-End Engineering (PHP, Laravel, Python, RESTful APIs)
+  - Web Application Development (JavaScript, HTML5, CSS3)
+  - Database Architecture & Optimization (MySQL, SQLite, MongoDB)
   - Software Testing & Automation
+
+Soft Skills:
+  - Problem-Solving & Analytical Thinking
+  - Proactive Learning & Adaptability
+  - Team Collaboration
+  - Self-Driven & Independent Worker
+  - Effective Communication
 
 education:
   - degree: Bachelor of Computer Science (S.Kom) in Informatics Engineering
