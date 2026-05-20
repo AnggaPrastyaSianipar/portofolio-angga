@@ -233,7 +233,7 @@ sections:
           <div class="custom-card">
             <div class="card-banner">
               <a href="/media/linkedin.png" onclick="openModal(event, this.href)" style="display:block; width:100%; height:100%;">
-                <img src="/media/linkedin.png" alt="Angga's LinkedIn Profile">
+                <img src="https://anggaprastyasianipar.github.io/portofolio-angga/media/linkedin.png">
                 <div class="zoom-icon">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
                 </div>
@@ -263,7 +263,7 @@ sections:
           <div class="volunteer-card">
             <div class="image-frame">
               <a href="/media/asisten1.jpeg" onclick="openModal(event, this.href)">
-                <img src="/media/asisten1.jpeg" alt="Teaching Assistant 1">
+                <img src="https://anggaprastyasianipar.github.io/portofolio-angga/media/asisten1.jpeg">
                 <div class="zoom-icon">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
                 </div>
@@ -278,7 +278,7 @@ sections:
           <div class="volunteer-card">
             <div class="image-frame">
               <a href="/media/asisten2.jpeg" onclick="openModal(event, this.href)">
-                <img src="/media/asisten2.jpeg" alt="Teaching Assistant 2">
+                <img src="https://anggaprastyasianipar.github.io/portofolio-angga/media/asisten2.jpeg">
                 <div class="zoom-icon">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
                 </div>
@@ -300,7 +300,7 @@ sections:
           <div class="volunteer-card">
             <div class="image-frame">
               <a href="/media/pkl1.jpeg" onclick="openModal(event, this.href)">
-                <img src="/media/pkl1.jpeg" alt="PKL BPJS Ketenagakerjaan 1">
+                <img src="https://anggaprastyasianipar.github.io/portofolio-angga/media/pkl1.jpeg">
                 <div class="zoom-icon">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
                 </div>
@@ -322,7 +322,7 @@ sections:
           <div class="volunteer-card">
             <div class="image-frame">
               <a href="/media/volunter1.jpeg" onclick="openModal(event, this.href)">
-                <img src="/media/volunter1.jpeg" alt="Volunteer 1">
+                <img src="https://anggaprastyasianipar.github.io/portofolio-angga/media/volunter1.jpeg">
                 <div class="zoom-icon">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
                 </div>
@@ -337,7 +337,7 @@ sections:
           <div class="volunteer-card">
             <div class="image-frame">
               <a href="/media/volunter2.jpeg" onclick="openModal(event, this.href)">
-                <img src="/media/volunter2.jpeg" alt="Volunteer 2">
+                <img src="https://anggaprastyasianipar.github.io/portofolio-angga/media/volunter2.jpeg">
                 <div class="zoom-icon">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
                 </div>
@@ -352,7 +352,7 @@ sections:
           <div class="volunteer-card">
             <div class="image-frame">
               <a href="/media/volunter3.jpeg" onclick="openModal(event, this.href)">
-                <img src="/media/volunter3.jpeg" alt="Volunteer 3">
+                <img src="https://anggaprastyasianipar.github.io/portofolio-angga/media/volunter3.jpeg">
                 <div class="zoom-icon">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
                 </div>
@@ -367,7 +367,7 @@ sections:
           <div class="volunteer-card">
             <div class="image-frame">
               <a href="/media/volunter4.jpeg" onclick="openModal(event, this.href)">
-                <img src="/media/volunter4.jpeg" alt="Volunteer 4">
+                <img src="https://anggaprastyasianipar.github.io/portofolio-angga/media/volunter4.jpeg">
                 <div class="zoom-icon">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
                 </div>
@@ -389,7 +389,7 @@ sections:
           <div class="volunteer-card">
             <div class="image-frame">
               <a href="/media/retreat1.jpeg" onclick="openModal(event, this.href)">
-                <img src="/media/retreat1.jpeg" alt="Retreat 1">
+                <img src="https://anggaprastyasianipar.github.io/portofolio-angga/media/retreat1.jpeg">
                 <div class="zoom-icon">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
                 </div>
@@ -404,7 +404,7 @@ sections:
           <div class="volunteer-card">
             <div class="image-frame">
               <a href="/media/retreat2.jpeg" onclick="openModal(event, this.href)">
-                <img src="/media/retreat2.jpeg" alt="Retreat 2">
+                <img src="https://anggaprastyasianipar.github.io/portofolio-angga/media/retreat2.jpeg">
                 <div class="zoom-icon">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
                 </div>
