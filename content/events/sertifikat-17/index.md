@@ -33,13 +33,13 @@ image:
   focal_point: "Center"
 ---
 
-## 📜 Deskripsi Sertifikasi Kompetensi
+##  Deskripsi Sertifikasi Kompetensi
 
 Sertifikat dengan nomor **4EXGQDRJEZRL** ini diterbitkan oleh **Dicoding Indonesia**. Kredensial ini merupakan pengakuan formal skala industri yang menyatakan bahwa saya telah lulus dan kompeten dalam mengelola repositori kode atau data menggunakan Git dan GitHub, serta mahir dalam berkolaborasi bersama tim pengembang software (*software developers*) sesuai standar industri.
 
 ---
 
-### 🏛️ Kompetensi Inti yang Divalidasi
+###  Kompetensi Inti yang Divalidasi
 Pelatihan intensif sepanjang **15 Jam** ini memvalidasi kapabilitas teknis di bidang:
 * **Sistem Pengontrol Versi (Version Control System)**: Memahami arsitektur Git dan GitHub serta manfaatnya dalam melacak riwayat perubahan data atau kode secara terstruktur.
 * **Manajemen Repositori Lokal & Remote**: Menguasai perintah dasar operasional Git meliputi inisialisasi repositori (*git init*), pembuatan berkas, perekaman perubahan (*git commit*), pengarsipan, hingga pembatalan perubahan (*git checkout*).
