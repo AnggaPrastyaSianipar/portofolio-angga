@@ -32,29 +32,18 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/angga-sianipar
 
-skills:
-  - name: Hard Skills
-    items:
-      - label: Back-End Engineering (PHP, Laravel, Python, RESTful APIs)
-        level: 5
-      - label: Web Application Development (JavaScript, HTML5, CSS3)
-        level: 5
-      - label: Database Architecture & Optimization (MySQL, SQLite, MongoDB)
-        level: 5
-      - label: Software Testing & Automation
-        level: 4
-  - name: Soft Skills
-    items:
-      - label: Problem-Solving & Analytical Thinking
-        level: 5
-      - label: Proactive Learning & Adaptability
-        level: 5
-      - label: Team Collaboration
-        level: 5
-      - label: Self-Driven & Independent Worker
-        level: 5
-      - label: Effective Communication
-        level: 5
+interests:
+  - "<strong>HARD SKILLS</strong>"
+  - Back-End Engineering (PHP, Laravel, Python, RESTful APIs)
+  - Web Application Development (JavaScript, HTML5, CSS3)
+  - Database Architecture & Optimization (MySQL, SQLite, MongoDB)
+  - Software Testing & Automation
+  - "<strong>SOFT SKILLS</strong>"
+  - Problem-Solving & Analytical Thinking
+  - Proactive Learning & Adaptability
+  - Team Collaboration
+  - Self-Driven & Independent Worker
+  - Effective Communication
 
 education:
   - degree: Bachelor of Computer Science (S.Kom) in Informatics Engineering
@@ -150,6 +139,26 @@ experience:
         <li><strong>Database Systems:</strong> Led laboratory sessions on relational database engineering, covering Entity-Relationship Diagram (ERD) design, data normalization, and SQL query proficiency (DDL & DML) using MySQL.</li>
         <li><strong>Operating Systems:</strong> Provided instructional support regarding process management, memory scheduling, file systems, and command-line interface execution in operating system environments.</li>
       </ul>
+
+skills:
+  - name: Core Competencies
+    items:
+      - label: Web Development (Node.js, Express/Hapi, React, HTML/CSS/JS)
+        level: 5
+      - label: Database Architecture & Management (MySQL)
+        level: 5
+      - label: PHP (Native & Laravel Framework)
+        level: 4
+      - label: Python (System Programming & Scripting)
+        level: 4
+  - name: Software Engineering & Research
+    items:
+      - label: Software Testing (Automation, Unit & E2E Testing)
+        level: 4
+      - label: Version Control & Collaboration (Git & GitHub)
+        level: 5
+      - label: Computational Analysis & Technical Documentation
+        level: 4
 
 languages:
   - name: Indonesian
