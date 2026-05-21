@@ -14,7 +14,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: CVANGGA.pdf
+        url: cv-angga.pdf
       headings:
         about: ''
         education: ''
