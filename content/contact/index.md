@@ -22,7 +22,7 @@
 <div class="contact-wrapper">
 <div class="contact-header">
 <h1>Let's Connect.</h1>
-<p>Saya selalu terbuka untuk diskusi teknis, peluang karier, atau kolaborasi proyek strategis.</p>
+<p>Terimakasih telah meluangkan waktu anda untuk mengunjugi Portofolio saya. Saya selalu terbuka untuk diskusi teknis, peluang karier, atau kolaborasi proyek strategis.</p>
 </div>
 
 <div class="contact-grid">
