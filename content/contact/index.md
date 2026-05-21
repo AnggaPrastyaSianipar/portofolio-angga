@@ -1,10 +1,16 @@
-<!-- Memanggil Font Awesome agar semua ikon muncul -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
 <style>
-.contact-wrapper { font-family: 'Inter', sans-serif; color: #f8fafc; padding: 20px 0; }
-.contact-header { text-align: left; margin-bottom: 40px; }
-.contact-header h1 { font-size: 3rem; font-weight: 800; background: linear-gradient(90deg, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 10px; }
+.contact-wrapper { font-family: 'Inter', sans-serif; color: #f8fafc; padding: 20px 0; position: relative; }
+/* Margin-top dinaikkan ke 100px untuk memberi ruang pada foto yang lebih besar */
+.contact-header { text-align: center; margin-top: 100px; margin-bottom: 40px; }
+/* Margin-top diubah ke -90px agar foto tetap berada di tengah perbatasan */
+.profile-photo-container { display: flex; justify-content: center; align-items: center; margin-top: -90px; margin-bottom: 20px; position: relative; }
+/* Ukuran foto diperbesar menjadi 180px */
+.profile-photo { width: 300px; height: 300px; border-radius: 50%; border: 6px solid #1e293b; box-shadow: 0 10px 20px rgba(56, 189, 248, 0.4); object-fit: cover; position: relative; z-index: 10; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; }
+.profile-photo:hover { transform: scale(1.05); box-shadow: 0 15px 30px rgba(56, 189, 248, 0.6); }
+.contact-header h1 { font-size: 3rem; font-weight: 800; background: linear-gradient(90deg, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-top: 10px; margin-bottom: 5px; }
+.contact-header p { font-size: 1rem; color: #cbd5e1; max-width: 600px; margin: 0 auto 20px auto; }
 .contact-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-bottom: 50px; }
 .contact-card { background: rgba(30, 41, 59, 0.4); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 20px; padding: 30px; text-decoration: none !important; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); display: flex; align-items: center; gap: 20px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); }
 .contact-card:hover { transform: translateY(-10px); background: rgba(30, 41, 59, 0.6); border-color: #38bdf8; box-shadow: 0 20px 25px -5px rgba(56, 189, 248, 0.2); }
@@ -21,8 +27,11 @@
 
 <div class="contact-wrapper">
 <div class="contact-header">
+<div class="profile-photo-container">
+<img src="/media/me.png" alt="Angga Prastya Sianipar" class="profile-photo">
+</div>
 <h1>Let's Connect.</h1>
-<p>Terimakasih telah meluangkan waktu anda untuk mengunjugi Portofolio saya. Saya selalu terbuka untuk diskusi teknis, peluang karier, atau kolaborasi proyek strategis.</p>
+<p>Thank you for taking the time to view my portfolio. I am always open to technical discussions, career opportunities, and strategic project collaborations.</p>
 </div>
 
 <div class="contact-grid">
@@ -61,12 +70,12 @@
 
 <div class="status-section">
 <h2 style="margin-bottom: 20px; font-size: 1.5rem; border: none; padding: 0; color: #f8fafc;">Current Availability</h2>
-<p style="margin-bottom: 25px; color: #cbd5e1;">Berbasis di <strong>Medan, Indonesia</strong>. Tersedia untuk kolaborasi di seluruh zona waktu.</p>
+<p style="margin-bottom: 25px; color: #cbd5e1;">Based in <strong>Medan, Indonesia</strong>. Available for global collaboration across all time zones.</p>
 
 <div class="status-list">
-<div class="status-item"><i class="fas fa-check-circle"></i> Remote Ready (WFA)</div>
-<div class="status-item"><i class="fas fa-check-circle"></i> Hybrid/On-site Medan</div>
-<div class="status-item"><i class="fas fa-check-circle"></i> Relocation Open</div>
+<div class="status-item"><i class="fas fa-check-circle"></i> Remote Ready</div>
+<div class="status-item"><i class="fas fa-check-circle"></i> Hybrid / On-site (Medan)</div>
+<div class="status-item"><i class="fas fa-check-circle"></i> Open to Relocation</div>
 </div>
 </div>
 
