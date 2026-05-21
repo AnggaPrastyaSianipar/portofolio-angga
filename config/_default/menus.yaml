@@ -22,3 +22,6 @@ main:
   - name: Involvements
     url: courses/
     weight: 40
+  - name: Contact
+    url: contact
+    weight: 50
