@@ -98,32 +98,32 @@ S-TIX is an e-commerce platform designed to efficiently manage and facilitate co
 ### System Documentation
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 25px;">
   <div class="img-container" style="background: white; border-radius: 20px; padding: 20px;">
-    <img src="/gallery/s1.jpg" style="width: 100%; border-radius: 12px;">
-    <div class="zoom-icon" onclick="openModal('/gallery/s1.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
+    <img src="https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s1.jpg" style="width: 100%; border-radius: 12px;">
+    <div class="zoom-icon" onclick="openModal('https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s1.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
   </div>
   <div class="img-container" style="background: white; border-radius: 20px; padding: 20px;">
-    <img src="/gallery/s2.jpg" style="width: 100%; border-radius: 12px;">
-    <div class="zoom-icon" onclick="openModal('/gallery/s2.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
+    <img src="https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s2.jpg" style="width: 100%; border-radius: 12px;">
+    <div class="zoom-icon" onclick="openModal('https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s2.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
   </div>
   <div class="img-container" style="background: white; border-radius: 20px; padding: 20px;">
-    <img src="/gallery/s3.jpg" style="width: 100%; border-radius: 12px;">
-    <div class="zoom-icon" onclick="openModal('/gallery/s3.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
+    <img src="https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s3.jpg" style="width: 100%; border-radius: 12px;">
+    <div class="zoom-icon" onclick="openModal('https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s3.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
   </div>
   <div class="img-container" style="background: white; border-radius: 20px; padding: 20px;">
-    <img src="/gallery/s4.jpg" style="width: 100%; border-radius: 12px;">
-    <div class="zoom-icon" onclick="openModal('/gallery/s4.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
+    <img src="https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s4.jpg" style="width: 100%; border-radius: 12px;">
+    <div class="zoom-icon" onclick="openModal('https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s4.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
   </div>
   <div class="img-container" style="background: white; border-radius: 20px; padding: 20px;">
-    <img src="/gallery/s5.jpg" style="width: 100%; border-radius: 12px;">
-    <div class="zoom-icon" onclick="openModal('/gallery/s5.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
+    <img src="https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s5.jpg" style="width: 100%; border-radius: 12px;">
+    <div class="zoom-icon" onclick="openModal('https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s5.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
   </div>
   <div class="img-container" style="background: white; border-radius: 20px; padding: 20px;">
-    <img src="/gallery/s6.jpg" style="width: 100%; border-radius: 12px;">
-    <div class="zoom-icon" onclick="openModal('/gallery/s6.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
+    <img src="https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s6.jpg" style="width: 100%; border-radius: 12px;">
+    <div class="zoom-icon" onclick="openModal('https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s6.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
   </div>
   <div class="img-container" style="background: white; border-radius: 20px; padding: 20px;">
-    <img src="/gallery/s7.jpg" style="width: 100%; border-radius: 12px;">
-    <div class="zoom-icon" onclick="openModal('/gallery/s7.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
+    <img src="https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s7.jpg" style="width: 100%; border-radius: 12px;">
+    <div class="zoom-icon" onclick="openModal('https://anggaprastyasianipar.github.io/portofolio-angga/gallery/s7.jpg')"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></div>
   </div>
   </div>
 
