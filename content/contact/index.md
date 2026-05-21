@@ -28,7 +28,7 @@
 <div class="contact-wrapper">
 <div class="contact-header">
 <div class="profile-photo-container">
-<img src="/media/me.png" alt="Angga Prastya Sianipar" class="profile-photo">
+<img src="https://anggaprastyasianipar.github.io/portofolio-angga/media/me.png" alt="Angga Prastya Sianipar" class="profile-photo">
 </div>
 <h1>Let's Connect.</h1>
 <p>Thank you for taking the time to view my portfolio. I am always open to technical discussions, career opportunities, and strategic project collaborations.</p>
