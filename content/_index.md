@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 2022-10-24
+date: 2026-05-23
 type: landing
 
 sections:
@@ -75,4 +75,13 @@ sections:
           - events
     design:
       view: card
+  - block: cta-card
+    demo: false
+    content:
+      title: ''
+      text: ''
+    design:
+      card:
+        css_class: ''
+        css_style: 'display: none !important;'
 ---
