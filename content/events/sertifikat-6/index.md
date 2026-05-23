@@ -32,13 +32,13 @@ image:
   focal_point: "Center"
 ---
 
-## 📜 Deskripsi Sertifikasi Kompetensi
+## Deskripsi Sertifikasi Kompetensi
 
 Sertifikat Kelulusan dengan nomor **No. 2VX34DN1NZYQ** ini diterbitkan secara resmi oleh **Dicoding Academy** bersama **Amazon Web Services (AWS)** kepada **Angga Prastya Sianipar**. Kredensial ini membuktikan pemenuhan standar kompetensi internasional untuk menjadi seorang Back-End Developer yang mampu menyediakan suplai data (*web service*) yang kokoh guna mendukung fungsionalitas aplikasi berskala modern.
 
 ---
 
-### 📚 Materi Pembelajaran & Evaluasi Praktis (Total 45 Jam)
+### Materi Pembelajaran & Evaluasi Praktis (Total 45 Jam)
 * **Pengenalan Ekosistem Back-End**: Memahami peran arsitektur server-side, protokol komunikasi HTTP antara *client* dan *server*, serta prinsip perancangan RESTful API (3 Jam).
 * **Dasar-Dasar Node.js**: Menguasai lingkungan runtime JavaScript di sisi server, global/process object, modularization, Node Package Manager (NPM), eventing, filesystem, dan teknik *stream* data (8 Jam).
 * **Membangun Web Service (Hapi Framework)**: Mendesain dan membangun web service secara native maupun menggunakan framework Hapi untuk menghasilkan RESTful API komprehensif (10 Jam).

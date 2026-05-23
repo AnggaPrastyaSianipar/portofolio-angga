@@ -34,13 +34,13 @@ image:
   focal_point: "Center"
 ---
 
-## 📜 Deskripsi Sertifikasi Kompetensi
+## Deskripsi Sertifikasi Kompetensi
 
 Sertifikat dengan nomor **6RPNY52NRZ2M** ini diterbitkan oleh **Dicoding Indonesia** selaku **Google Developers Authorized Training Partner**. Kredensial tingkat mahir (*Expert*) ini memvalidasi kapabilitas standar industri dalam membangun aplikasi front-end web berskala produksi yang optimal, responsif, memiliki performa tinggi, mudah dipelihara (*maintainable*), serta memiliki sifat layaknya aplikasi *native*.
 
 ---
 
-### 🏛️ Kompetensi Inti yang Divalidasi
+### Kompetensi Inti yang Divalidasi
 Kurikulum kurasi mendalam sepanjang **100 Jam** ini mencakup penguasaan aspek arsitektur front-end modern:
 * **Mobile-First Approach & Aksesibilitas**: Merancang tata letak web responsif tingkat lanjut memanfaatkan CSS Grid System dan Media Query dengan paradigma *Mobile-First*, sekaligus memastikan standar aksesibilitas inklusif (Semantic HTML, *tab order*, *alternative text*).
 * **JavaScript Clean Code & PWA**: Menerapkan prinsip kode bersih (*Clean Code*) mengacu pada standar Robert C. Martin dan mentransformasikan web konvensional menjadi **Progressive Web Apps (PWA)** yang mendukung kemampuan *offline*, sinkronisasi latar belakang, dan *installable*.

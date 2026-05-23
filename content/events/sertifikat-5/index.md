@@ -31,7 +31,7 @@ image:
   focal_point: "Center"
 ---
 
-## 📜 Deskripsi Sertifikasi Kompetensi
+##  Deskripsi Sertifikasi Kompetensi
 
 Sertifikat Kelulusan dengan nomor **No. L4PQ5JNVQZO1** ini diterbitkan secara resmi oleh **Dicoding Academy** kepada **Angga Prastya Sianipar**. Kredensial ini memvalidasi kelulusan dalam kelas pelatihan yang mengacu langsung pada standar kompetensi industri rekayasa perangkat lunak.
 
@@ -39,7 +39,7 @@ Kelas ini ditujukan bagi pengembangan kapabilitas profesional dasar guna memetak
 
 ---
 
-### 📚 Materi Pembelajaran & Evaluasi (Total 7 Jam)
+### Materi Pembelajaran & Evaluasi (Total 7 Jam)
 * **Pendahuluan Dunia Pengembangan**: Memahami definisi fungsional Software Developer serta analisis kebutuhan (*demand*) industri teknologi modern (1 jam 16 menit).
 * **Eksplorasi Jalur Karier Teknis**: Pengenalan mendalam tentang spesifikasi dan ekosistem pengerjaan pada ranah Android, iOS, Multi-Platform (Flutter), Front-End Web, Azure Cloud, hingga pengembangan kecerdasan buatan atau *Machine Learning Developer* (2 jam 36 menit).
 * **Strategi & Pandangan Developer Expert**: Menyerap metodologi kerja, budaya industri, dan kiat sukses adaptasi teknologi dari sudut pandang para praktisi expert (1 jam 16 menit).

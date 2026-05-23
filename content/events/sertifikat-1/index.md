@@ -31,13 +31,13 @@ image:
   focal_point: "Center"
 ---
 
-## 📜 Deskripsi Sertifikasi Kompetensi
+## Deskripsi Sertifikasi Kompetensi
 
 Sertifikat dengan nomor **No. 63111 2511 5 0167280 2026** serta **No. Reg. TIK 1565 51969 2026** ini diterbitkan oleh **Badan Nasional Sertifikasi Profesi (BNSP)** melalui **LSP Teknologi Digital**. Kredensial ini merupakan pengakuan formal skala nasional yang menyatakan bahwa saya **KOMPETEN** pada bidang **Sains Data (Data Science)** dengan kualifikasi sebagai **Ilmuwan Data Muda (Associate Data Scientist)**.
 
 ---
 
-### 🏛️ Kompetensi Inti yang Divalidasi
+### Kompetensi Inti yang Divalidasi
 * **Prapemrosesan Data (Data Preprocessing)**: Melakukan pembersihan data, penanganan *missing values*, transformasi variabel, dan rekayasa fitur siap pakai untuk pemodelan algoritma.
 * **Analisis & Eksplorasi Data (EDA)**: Menemukan pola tersembunyi, korelasi antar variabel, serta merancang visualisasi data kuantitatif yang informatif.
 * **Pemodelan Prediktif (Machine Learning)**: Membangun, menguji, dan mengevaluasi performa model komputasi kecerdasan buatan baik untuk klasifikasi maupun klasterisasi data.

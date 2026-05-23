@@ -33,13 +33,13 @@ image:
   focal_point: "Center"
 ---
 
-## 📜 Deskripsi Sertifikasi Kompetensi
+## Deskripsi Sertifikasi Kompetensi
 
 Sertifikat dengan nomor **GRX542Q8VPOM** ini diterbitkan oleh **Dicoding Indonesia**. Kredensial ini merupakan pengakuan formal skala industri yang menyatakan bahwa saya telah lulus dan kompeten dalam membangun aplikasi front-end web yang interaktif serta memiliki fitur penyimpanan data lokal yang andal.
 
 ---
 
-### 🏛️ Kompetensi Inti yang Divalidasi
+### Kompetensi Inti yang Divalidasi
 Pelatihan intensif sepanjang **45 Jam** ini memvalidasi kapabilitas teknis di bidang:
 * **Browser & Document Object Model (BOM & DOM)**: Menguasai struktur BOM dan DOM pada halaman website, serta mahir dalam menerapkan teknik pemanipulasian elemen HTML secara dinamis menggunakan JavaScript.
 * **Interaktivitas Berbasis Event**: Mampu menerapkan konsep *event-driven programming* untuk menciptakan interaktivitas responsif pada elemen UI/UX website.

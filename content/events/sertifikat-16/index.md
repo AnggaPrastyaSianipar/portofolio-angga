@@ -34,13 +34,13 @@ image:
   focal_point: "Center"
 ---
 
-## 📜 Deskripsi Sertifikasi Kompetensi
+## Deskripsi Sertifikasi Kompetensi
 
 Sertifikat dengan nomor **OLZ06L0ORZ65** ini diterbitkan oleh **Dicoding Indonesia** sebagai bagian dari program pelatihan divalidasi Prakerja. Kredensial ini merupakan pengakuan formal yang mengacu pada **Standar Okupasi Pengembang Software (Kode Okupasi KBJI: 2512.03, Indotask: 2512)**, menyatakan bahwa saya kompeten dalam merencanakan, menganalisis, serta memodifikasi aplikasi perangkat lunak sesuai dengan spesifikasi fungsionalitas industri.
 
 ---
 
-### 🏛️ Kompetensi Inti yang Divalidasi
+### Kompetensi Inti yang Divalidasi
 Pelatihan intensif sepanjang **9 Jam** ini memvalidasi kapabilitas teknis dan sikap kerja di bidang:
 * **Analisis Persyaratan & Alur Kerja**: Mampu meneliti dan mengevaluasi kebutuhan aplikasi dari sisi pengguna, serta merancang perencanaan modifikasi melalui dokumen *requirement* dan diagram alur (*flowchart*).
 * **Konsep Dasar Pemrograman & JavaScript**: Menguasai teori sintaksis bahasa pemrograman, variabel, tipe data, logika komputer, serta implementasi penulisan *pseudocode* dan kode program berbasis JavaScript (ES6).

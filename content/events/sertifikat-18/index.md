@@ -34,13 +34,13 @@ image:
   focal_point: "Center"
 ---
 
-## 📜 Deskripsi Sertifikasi Kompetensi
+## Deskripsi Sertifikasi Kompetensi
 
 Sertifikat dengan nomor **JLX149MJ2X72** ini diterbitkan oleh **Dicoding Indonesia** selaku **Google Developers Authorized Training Partner**. Kredensial tingkat menengah (*Intermediate*) ini memvalidasi kapabilitas standar industri dalam membangun aplikasi front-end web yang dinamis, terstruktur, optimal, serta menerapkan komponen antarmuka yang bersifat *reusable* dan *encapsulated*.
 
 ---
 
-### 🏛️ Kompetensi Inti yang Divalidasi
+### Kompetensi Inti yang Divalidasi
 Kurikulum kurasi mendalam sepanjang **80 Jam** ini mencakup penguasaan aspek arsitektur front-end modern:
 * **Sintaksis JavaScript Modern (ES6+)**: Menguasai dan menerapkan fitur modern seperti *block scope variable, template literals, destructuring object & array, spread operator, rest parameters, arrow function, JavaScript Classes, Promise*, hingga *JavaScript Modules*.
 * **Teknik Layouting Lanjut (CSS Grid)**: Mahir menyusun tata letak tata ruang dan grid antarmuka web yang kompleks, responsif, dan fleksibel menggunakan metode *CSS Grid System*.

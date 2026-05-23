@@ -33,13 +33,13 @@ image:
   focal_point: "Center"
 ---
 
-## 📜 Deskripsi Sertifikasi Kompetensi
+## Deskripsi Sertifikasi Kompetensi
 
 Sertifikat dengan nomor **53XEQJ02YXRN** ini diterbitkan oleh **Dicoding Indonesia**. Kredensial ini merupakan pengakuan formal skala industri yang divalidasi oleh **Amazon Web Services (AWS)**, menyatakan bahwa saya telah kompeten dan menguasai pilar fundamental pemrograman JavaScript untuk siap melangkah ke tahap pengembangan aplikasi Web dan Back-End modern menggunakan Node.js.
 
 ---
 
-### 🏛️ Kompetensi Inti yang Divalidasi
+### Kompetensi Inti yang Divalidasi
 Pelatihan intensif sepanjang **46 Jam** ini memvalidasi kapabilitas teknis di bidang:
 * **Sintaksis & Alur Program**: Menguasai penggunaan variabel, tipe data, operator, ekspresi kondisional (*if/else*), perulangan (*looping*), serta teknik penanganan eror (*try/catch*) yang tepat.
 * **Struktur Data & Reusability**: Mahir mengelola dan memanipulasi data menggunakan *Object*, *Array*, *Map*, dan *Set*, serta menerapkan *Function* untuk menghasilkan kode yang reusable.

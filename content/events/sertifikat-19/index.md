@@ -34,13 +34,13 @@ image:
   focal_point: "Center"
 ---
 
-## 📜 Deskripsi Sertifikasi Kompetensi
+## Deskripsi Sertifikasi Kompetensi
 
 Sertifikat dengan nomor **GRX54KKRVPOM** ini diterbitkan oleh **Dicoding Indonesia** selaku **Google Developers Authorized Training Partner**. Kredensial ini merupakan bukti kelulusan formal berskala industri yang memvalidasi penguasaan materi fundamental pembuatan website (HTML5 dan CSS3) secara komprehensif, terstruktur, serta sesuai dengan standar best practices industri global.
 
 ---
 
-### 🏛️ Kompetensi Inti yang Divalidasi
+### Kompetensi Inti yang Divalidasi
 Pelatihan mendalam sepanjang **41 Jam** ini memvalidasi kapabilitas teknis pengembang pada aspek-aspek berikut:
 * **Arsitektur & Pendalaman HTML5**: Menguasai anatomi dokumen web, penataan hierarki teks, pembuatan tabel, penggunaan elemen generik (`<div>` dan `<span>`), serta teknik pengorganisasian konten menggunakan elemen **Semantic HTML** untuk optimalisasi SEO dan aksesibilitas.
 * **Mekanisme Kerja & Desain CSS3**: Memahami anatomi *CSS rules*, implementasi variatif *selectors*, manipulasi tipografi, manajemen warna (*foreground & background*), pemanfaatan efek visual (*shadow & positioning*), serta pemahaman mendalam tentang **Box Model**.

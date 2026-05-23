@@ -32,13 +32,13 @@ image:
   focal_point: "Center"
 ---
 
-## 📜 Deskripsi Sertifikasi Kompetensi
+## Deskripsi Sertifikasi Kompetensi
 
 Sertifikat dengan nomor **L4PQ1V347X01** ini diterbitkan oleh **Dicoding Indonesia**. Kredensial ini merupakan pengakuan formal skala industri yang menyatakan bahwa saya telah lulus dan kompeten dalam memahami logika pemrograman dasar serta menerapkannya untuk pemecahan masalah (*problem solving*) di bidang pekerjaan *Software Developer*.
 
 ---
 
-### 🏛️ Kompetensi Inti yang Divalidasi
+### Kompetensi Inti yang Divalidasi
 Pelatihan intensif sepanjang **6 Jam** ini memvalidasi kapabilitas teknis di bidang:
 * **Logika & Algoritma Dasar**: Memahami istilah logika dan algoritma komputer serta menguasai jenis-jenis logika pemrograman dasar untuk membangun alur instruksi yang terstruktur.
 * **Gerbang Logika (Logic Gates)**: Menguasai prinsip kerja, fungsi, dan jenis-jenis gerbang logika fundamental meliputi *AND, OR, NOT, NAND, NOR, XOR,* dan *XNOR*.
