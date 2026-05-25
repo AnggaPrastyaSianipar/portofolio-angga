@@ -1,37 +1,29 @@
 ---
 title: "Sertifikat Pelatihan Digital Talent Scholarship: Mastering Generative Artificial Intelligence"
 date: 2024-12-29
-
-event: "BBPSDMP Medan - Kementerian Komunikasi dan Digital"
-event_url: "https://digitalent.kominfo.go.id"
-
-location: "Balai Besar Pengembangan Sumber Daya Manusia dan Penelitian (BBPSDMP) Medan"
+event_url: https://digitalent.kominfo.go.id
+location: Balai Besar Pengembangan Sumber Daya Manusia dan Penelitian (BBPSDMP) Medan
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat Pelatihan Resmi Thematic Academy (TA) dari KOMDIGI yang memvalidasi penguasaan teknologi Generative AI dan kecerdasan buatan yang bertanggung jawab."
-
-# Waktu pelaksanaan mengikuti tanggal pelatihan Anda (12 Desember 2024)
+  country: Indonesia
+summary: Sertifikat Pelatihan Resmi Thematic Academy (TA) dari KOMDIGI yang memvalidasi penguasaan teknologi Generative AI dan kecerdasan buatan yang bertanggung jawab.
 event_start: 2024-12-12
 event_end: 2024-12-12
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Artificial Intelligence
   - Generative AI
   - KOMDIGI
   - Digital Talent Scholarship
-
 featured: true
-
 image:
-  caption: "Sertifikat Pelatihan KOMDIGI Generative AI (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Pelatihan KOMDIGI Generative AI (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: BBPSDMP Medan - Kementerian Komunikasi dan Digital
 ---
+
 
 ## 📜 Deskripsi Pelatihan Kompetensi
 
