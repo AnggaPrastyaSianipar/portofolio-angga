@@ -1,24 +1,15 @@
 ---
 title: "Sertifikasi Kompetensi: Memulai Dasar Pemrograman untuk Menjadi Pengembang Software"
 date: 2024-09-13
-
-event: "Dicoding Indonesia - Program Kartu Prakerja"
-event_url: "https://dicoding.com"
-
-location: "Dicoding Academy Indonesia"
+event_url: https://dicoding.com
+location: Dicoding Academy Indonesia
 address:
-  country: "Indonesia"
-
+  country: Indonesia
 summary: "Sertifikat Kompetensi Kelulusan resmi dari Dicoding Indonesia yang mengacu pada standar okupasi Pengembang Software (KBJI: 2512.03) menggunakan teknologi HTML, CSS, dan JavaScript dasar."
-
-# Waktu pelaksanaan mengikuti tanggal terbit sertifikat Anda (13 September 2024)
 event_start: 2024-09-13
 event_end: 2024-09-13
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Dasar Pemrograman
@@ -26,13 +17,14 @@ tags:
   - CSS
   - Software Developer
   - Prakerja
-
 featured: true
-
 image:
-  caption: "Sertifikat Dicoding Memulai Dasar Pemrograman (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Dicoding Memulai Dasar Pemrograman (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: Dicoding Indonesia - Program Kartu Prakerja
 ---
+
 
 ## Deskripsi Sertifikasi Kompetensi
 
