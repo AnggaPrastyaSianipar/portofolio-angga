@@ -1,36 +1,28 @@
 ---
 title: "Sertifikat Penghargaan Capstone Project Terbaik: S-TIX (SIB Dicoding Cycle 7)"
 date: 2024-12-31
-
-event: "Program SIB Dicoding × Kampus Merdeka Angkatan 7"
-event_url: "https://www.dicoding.com"
-
-location: "Dicoding Indonesia"
+event_url: https://www.dicoding.com
+location: Dicoding Indonesia
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat Penghargaan atas pencapaian sebagai Capstone Project Terbaik dengan judul proyek S-TIX pada Program SIB Dicoding × Kampus Merdeka Angkatan 7."
-
-# Waktu pelaksanaan berdasarkan tanggal terbit sertifikat
+  country: Indonesia
+summary: Sertifikat Penghargaan atas pencapaian sebagai Capstone Project Terbaik dengan judul proyek S-TIX pada Program SIB Dicoding × Kampus Merdeka Angkatan 7.
 event_start: 2024-12-31
 event_end: 2024-12-31
-all_day: true
-
 authors:
   - me
-
 tags:
   - Capstone Project
   - SIB Dicoding
   - Kampus Merdeka
   - Award
-
 featured: true
-
 image:
-  caption: "Sertifikat Capstone Terbaik SIB Dicoding (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Capstone Terbaik SIB Dicoding (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: Program SIB Dicoding × Kampus Merdeka Angkatan 7
 ---
+
 
 ## 📜 Deskripsi Penghargaan
 
