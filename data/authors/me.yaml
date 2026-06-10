@@ -63,7 +63,7 @@ education:
       <strong>Thesis Title:</strong> TECHNICAL ANALYSIS OF BANK NEGARA INDONESIA STOCK PRICE MOVEMENTS USING COMPUTATIONAL EXPONENTIAL MOVING AVERAGE (EMA) METHOD.
     button:
       text: Download CV / Resume
-      url: cv-angga.pdf
+      url: /cv-angga-fiks.pdf
       icon: hero/arrow-down-tray
 
 experience:
