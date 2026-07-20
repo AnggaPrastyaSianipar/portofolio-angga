@@ -1,35 +1,28 @@
 ---
 title: "Sertifikat Pelatihan Digital Talent Scholarship: Associate Data Scientist"
 date: 2025-12-20
-
-event: "BBPSDMP Medan - Kementerian Komunikasi dan Digital"
-event_url: "https://digitalent.kominfo.go.id"
-
-location: "Balai Besar Pengembangan Sumber Daya Manusia dan Penelitian (BBPSDMP) Medan"
+event_url: https://digitalent.kominfo.go.id
+location: Balai Besar Pengembangan Sumber Daya Manusia dan Penelitian (BBPSDMP) Medan
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat Pelatihan Resmi Vocational School Graduate Academy (VSGA) dari KOMDIGI yang menyatakan kelulusan dalam bidang Associate Data Scientist."
-
+  country: Indonesia
+summary: Sertifikat Pelatihan Resmi Vocational School Graduate Academy (VSGA) dari KOMDIGI yang menyatakan kelulusan dalam bidang Associate Data Scientist.
 event_start: 2025-11-26
 event_end: 2025-12-02
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Data Science
   - KOMDIGI
   - Digital Talent Scholarship
-
 featured: true
-
 image:
-  caption: "Sertifikat Pelatihan KOMDIGI Data Science (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Pelatihan KOMDIGI Data Science (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: BBPSDMP Medan - Kementerian Komunikasi dan Digital
 ---
+
 
 ## 📜 Deskripsi Pelatihan Kompetensi
 

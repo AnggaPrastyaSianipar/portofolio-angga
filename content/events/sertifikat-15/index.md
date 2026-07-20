@@ -1,36 +1,28 @@
 ---
 title: "Sertifikasi Kompetensi: Pengenalan ke Logika Pemrograman (Programming Logic 101)"
 date: 2024-09-09
-
-event: "Dicoding Indonesia"
-event_url: "https://dicoding.com"
-
-location: "Dicoding Academy Indonesia"
+event_url: https://dicoding.com
+location: Dicoding Academy Indonesia
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat Kompetensi Kelulusan resmi dari Dicoding Indonesia untuk penguasaan fondasi Computational Thinking, Gerbang Logika, dan Algoritma Dasar sesuai standar industri."
-
-# Waktu pelaksanaan mengikuti tanggal terbit sertifikat Anda (09 September 2024)
+  country: Indonesia
+summary: Sertifikat Kompetensi Kelulusan resmi dari Dicoding Indonesia untuk penguasaan fondasi Computational Thinking, Gerbang Logika, dan Algoritma Dasar sesuai standar industri.
 event_start: 2024-09-09
 event_end: 2024-09-09
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Programming Logic
   - Computational Thinking
   - Dasar Pemrograman
-
 featured: true
-
 image:
-  caption: "Sertifikat Dicoding Programming Logic 101 (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Dicoding Programming Logic 101 (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: Dicoding Indonesia
 ---
+
 
 ## Deskripsi Sertifikasi Kompetensi
 
