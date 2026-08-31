@@ -1,36 +1,28 @@
 ---
 title: "Sertifikat Kompetensi: Belajar Back-End Pemula dengan JavaScript"
 date: 2024-12-13
-
-event: "Dicoding Academy Indonesia x Amazon Web Services (AWS)"
-event_url: "https://dicoding.com"
-
-location: "Dicoding Indonesia"
+event_url: https://dicoding.com
+location: Dicoding Indonesia
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat kompetensi dari Dicoding Academy dan AWS yang memvalidasi kemampuan dalam membangun web service/RESTful API menggunakan Node.js serta melakukan deployment aplikasi ke Amazon EC2 Cloud."
-
-# Waktu pelaksanaan berdasarkan tanggal kelulusan sertifikat Anda (13 Desember 2024)
+  country: Indonesia
+summary: Sertifikat kompetensi dari Dicoding Academy dan AWS yang memvalidasi kemampuan dalam membangun web service/RESTful API menggunakan Node.js serta melakukan deployment aplikasi ke Amazon EC2 Cloud.
 event_start: 2024-12-13
 event_end: 2024-12-13
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Back-End Development
   - AWS
   - Node.js
-
 featured: true
-
 image:
-  caption: "Sertifikat Dicoding Back-End Developer (Klik gambar untuk Mode Theater Ultra HD)"
-  focal_point: "Center"
+  caption: Sertifikat Dicoding Back-End Developer (Klik gambar untuk Mode Theater Ultra HD)
+  focal_point: Center
+event_all_day: true
+event_name: Dicoding Academy Indonesia x Amazon Web Services (AWS)
 ---
+
 
 ## Deskripsi Sertifikasi Kompetensi
 
