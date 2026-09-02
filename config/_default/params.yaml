@@ -16,7 +16,7 @@ hugoblox:
     # Tipe Schema.org untuk data terstruktur
     type: person # person | organization | local_business
     # Slogan pendek yang ditampilkan di situs Anda
-    tagline: "Web Developer | Back-End Engineer | Informatics Engineering Graduate"
+    tagline: "Web Developer | Full-Stack Engineer | Informatics Engineering Graduate"
     # Deskripsi meta situs untuk mesin pencari dan pembagian ke media sosial
     description: "Angga Prastya Sianipar's professional portfolio site. Focusing on web application development, back-end engineering, database management, and software architecture."
     # Akun sosial (digunakan untuk tag meta seperti Twitter Cards)

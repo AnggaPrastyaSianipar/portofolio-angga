@@ -14,10 +14,10 @@ postnominals:
 status:
   icon: ""
 
-role: "Web Developer | Back-End Engineer | Informatics Engineering Graduate"
+role: "Web Developer | Full-Stack Engineer | Informatics Engineering Graduate"
 
 bio: |
-  Angga Prastya Sianipar is a top-tier honors (Cum Laude) graduate in Informatics Engineering from Universitas Methodist Indonesia, specializing in web development and back-end engineering. He possesses strong expertise in designing software architecture, managing efficient databases, and building secure, scalable APIs. Proactive and driven, he excels at transforming complex business logic into optimized, stable, and production-ready back-end applications.
+  Angga Prastya Sianipar is a high-achieving Cum Laude Informatics Engineering graduate from Universitas Methodist Indonesia, specializing in full-stack software development. He brings a powerful combination of back-end engineering precision and front-end user experience design, building seamless web applications from database architecture to responsive interfaces. Adept at designing secure APIs, managing efficient data flows, and writing clean, maintainable code, Angga turns complex business requirements into high-performing, production-ready digital products that deliver exceptional value to users and organizations.
 
 affiliations:
   - name: Universitas Methodist Indonesia
@@ -39,6 +39,7 @@ links:
 interests:
   - "<strong>─── HARD SKILLS ───</strong>"
   - Back-End Engineering (PHP, Laravel, Python, RESTful APIs)
+  - Front-End Development (JavaScript, TypeScript, React.js, HTML5, CSS3, Tailwind CSS)
   - Web Application Development (JavaScript, HTML5, CSS3)
   - Database Architecture & Optimization (MySQL, SQLite, MongoDB)
   - Software Testing & Automation

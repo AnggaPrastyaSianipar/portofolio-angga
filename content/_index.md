@@ -8,10 +8,8 @@ type: landing
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: cv-angga-fiks.pdf
@@ -20,31 +18,53 @@ sections:
         education: ''
         interests: ''
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
-
-      # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
+        size: md
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
+
+  - block: markdown
+    content:
+      title: ""
+      text: |-
+        <div style="text-align: center; margin-top: -20px; margin-bottom: 30px;">
+          <a href="portfolio-angga.pdf" style="
+            display: inline-flex;
+            align-items: center;
+            padding: 15px 40px;
+            background: linear-gradient(90deg, #6366f1 0%, #14b8a6 100%);
+            color: white;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            transition: transform 0.2s;
+          " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+            <span style="margin-right: 10px;"></span> 
+            Download Portfolio PDF
+          </a>
+        </div>
+    design:
+      columns: '1'
+
   - block: markdown
     content:
       title: 'Professional Profile'
       subtitle: ''
       text: |-
-        Welcome to my professional portfolio. I am an Informatics Engineering graduate specializing in Software Engineering, Back-End Architecture, and the development of robust, scalable web applications.
+        Welcome to my professional portfolio. I am an Informatics Engineering graduate specializing in Full-Stack Software Engineering, dynamic web development, and robust end-to-end system architecture.
 
-        By leveraging efficient computational approaches, optimized relational database management systems (RDBMS), and industry-standard clean code practices, I am highly committed to building stable, secure, and production-ready digital infrastructures.
+        By bridging high-performance back-end logic, optimized relational database management systems (RDBMS), and intuitive, responsive front-end interfaces, I am highly committed to building seamless, secure, and production-ready digital products.
 
-        Feel free to connect with me for project collaborations, technical software engineering discussions, or professional career opportunities.
+        Feel free to connect with me for project collaborations, full-stack software engineering discussions, or professional career opportunities.
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
@@ -56,6 +76,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -66,6 +87,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -75,13 +97,4 @@ sections:
           - events
     design:
       view: card
-  - block: cta-card
-    demo: false
-    content:
-      title: ''
-      text: ''
-    design:
-      card:
-        css_class: ''
-        css_style: 'display: none !important;'
 ---

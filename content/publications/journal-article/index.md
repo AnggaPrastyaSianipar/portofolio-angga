@@ -1,11 +1,12 @@
 ---
-title: "Predicting Bank Negara Indonesia Stock Price Movements Using the Exponential Moving Average (EMA) Method"
+title: "BNI STOCK DIRECTIONAL TREND IDENTIFICATION USING 
+EXPONENTIAL MOVING AVERAGE METHOD"
 authors:
   - me
-date: "2026-04-30T00:00:00Z"
+date: "2026-08-01T00:00:00Z"
 
 # Tanggal penerbitan halaman sistem
-publishDate: "2026-04-30T00:00:00Z"
+publishDate: "2026-08-01T00:00:00Z"
 
 # Jenis publikasi menurut standar CSL
 publication_types: ["article-journal"]
@@ -33,7 +34,7 @@ featured: true
 
 links:
   - type: pdf
-    url: "" # Letakkan tautan URL PDF jika berkas jurnal sudah online
+    url: "https://ejournal.nusamandiri.ac.id/index.php/jitk/article/view/8454" # Letakkan tautan URL PDF jika berkas jurnal sudah online
   - type: code
     url: "https://github.com/AnggaPrastyaSianipar/portofolio-angga" # Tautan ke repositori Anda jika ada
 
