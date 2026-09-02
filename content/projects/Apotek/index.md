@@ -1,7 +1,8 @@
 ---
-title: "Perancangan Aplikasi Pemesanan Obat dan Digitalisasi Resep Dokter Berbasis Android pada Apotek Angga Punya"
+title: "Design of an Android-Based Medicine Ordering and Digital Doctor Prescription Application at Apotek Angga Punya"
 date: "2025-11-01T00:00:00Z"
 publishDate: "2026-08-01T00:00:00Z"
+weight: 7
 summary: "Full-stack mobile application development featuring Android (React Native), Node.js API, MySQL database, digital prescription uploads, and e-commerce checkout features."
 tags:
   - Full-Stack Development
@@ -93,7 +94,7 @@ links:
 
 ## About the Project
 <p style="font-size: 1.1rem; line-height: 1.8; color: #b3b3b3; text-align: justify;">
-  <strong>Apotek Angga Punya</strong> is an Android-based mobile application specifically designed to modernize medicine ordering and prescription digitization. This system serves as a solution to streamline pharmacy operations, particularly concerning the seamless submission of doctor's prescriptions and real-time product accessibility</strong> claims.
+  <strong>Apotek Angga Punya</strong> is an Android-based mobile application specifically designed to modernize medicine ordering and prescription digitization. This system serves as a solution to streamline pharmacy operations, particularly concerning the seamless submission of doctor's prescriptions and real-time product accessibility.</strong> 
   <br><br>
   Prior to this system, ordering and prescription processes were managed manually, leading to fragmented communication and inefficiencies. Through this platform, users can securely register, browse categorized medicine inventories, upload digital prescriptions via Multer, consult with pharmacists interactively, and execute structured checkouts with flexible payment methods. Powered by React Native, Node.js with Express, and MySQL databases (db_apotek), this application acts as an end-to-end digital commerce infrastructure—ensuring accurate data integration, streamlined user management, and enhanced operational efficiency.
 </p>

@@ -1,6 +1,7 @@
 ---
 title: "Website Pendaftaran Siswa SMA"
 date: "2026-05-01T00:00:00Z"
+weight: 8
 summary: "An interactive web-based school registration and information system powered by PHP to streamline student admissions and institutional management."
 tags:
   - Web Development

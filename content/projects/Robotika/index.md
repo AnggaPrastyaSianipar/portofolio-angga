@@ -1,8 +1,9 @@
 ---
-title: "Perancangan dan Implementasi Sistem Tele-Operasi Robot Manipulator Nirkabel Menggunakan Antarmuka Remote Control Kustom"
+title: "Design and Implementation of a Wireless Robotic Manipulator Tele-Operation System Using a Custom Remote Control Interface"
 date: "2025-11-01T00:00:00Z"
 publishDate: "2025-11-01T00:00:00Z"
-summary: "Perancangan sistem tele-operasi robot manipulator 4-DOF menggunakan mikrokontroler ESP32 dan antarmuka web kustom untuk tugas pemindahan objek (Pick-and-Place)."
+weight: 5
+summary: "Design of a 4-DOF robotic manipulator tele-operation system using an ESP32 microcontroller and a custom web interface for pick-and-place object manipulation tasks."
 tags:
   - Robotics
   - Embedded Systems
@@ -93,7 +94,7 @@ links:
 
 ## About the Project
 <p style="font-size: 1.1rem; line-height: 1.8; color: #b3b3b3; text-align: justify;">
-  <strong>Wireless Robot Manipulator Tele-operation System</strong>  is an embedded web-based application specifically designed to control and operate a 4-DOF (Degrees of Freedom) robotic arm system. This system serves as a solution to operational challenges in robotic control, particularly concerning precision execution in dangerous or hard-to-reach environments through wireless tele-operation.</strong> claims.
+  <strong>Wireless Robot Manipulator Tele-operation System</strong>  is an embedded web-based application specifically designed to control and operate a 4-DOF (Degrees of Freedom) robotic arm system. This system serves as a solution to operational challenges in robotic control, particularly concerning precision execution in dangerous or hard-to-reach environments through wireless tele-operation.</strong> 
   <br><br>
   Prior to this system, traditional robot controls were often rigid, complex, and lacked flexibility. Through this platform, operators can structurally transmit remote commands, monitor joint angles, and perform precision tasks in real-time. Powered by an ESP32 microcontroller utilizing a built-in Access Point (AP) Wi-Fi web server, motor servos (SG90/MG90S), and an asynchronous AJAX web control interface, this system acts as an effective coordination tool—ensuring stable wireless communication, minimizing latency, and optimizing pick-and-place operational workflows.
 </p>

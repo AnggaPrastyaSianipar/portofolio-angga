@@ -1,6 +1,7 @@
 ---
 title: S-TIX Ticketing System
 date: 2024-12-31
+weight: 10
 summary: A concert ticket management e-commerce platform based on React & Node.js.
 tags:
   - Web Development

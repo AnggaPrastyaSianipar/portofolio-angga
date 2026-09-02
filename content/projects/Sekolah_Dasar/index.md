@@ -2,6 +2,7 @@
 title: "Java Desktop School Information and Management System"
 date: "2026-08-01T00:00:00Z"
 publishDate: "2026-08-01T00:00:00Z"
+weight: 6
 summary: "A comprehensive Java-based desktop application for school management, featuring administrative modules for student data, uniform inventory, payments, employee attendance, and school profile information."
 tags:
   - Java
@@ -93,7 +94,7 @@ links:
 
 ## About the Project
 <p style="font-size: 1.1rem; line-height: 1.8; color: #b3b3b3; text-align: justify;">
-  <strong>Java Desktop School Information and Management System</strong>   is a comprehensive desktop-based application specifically designed to manage school administration and student records. This system serves as an integrated solution for institutional operational workflows, handling everything from student data tracking to financial transactions.</strong> claims.
+  <strong>Java Desktop School Information and Management System</strong>   is a comprehensive desktop-based application specifically designed to manage school administration and student records. This system serves as an integrated solution for institutional operational workflows, handling everything from student data tracking to financial transactions.</strong> 
   <br><br>
   Prior to this system, administrative processes were often manual, fragmented, and lacked efficiency. Through this platform, operators can seamlessly authenticate users, manage student information, track uniform inventory catalogs, process payments, and monitor staff attendance in real-time. Built using Java and NetBeans with a structured relational database backend, this system acts as an effective administrative tool—ensuring data accuracy, streamlining transaction reports, and optimizing overall school management operations.
 </p>

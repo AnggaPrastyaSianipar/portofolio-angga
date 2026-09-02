@@ -1,6 +1,7 @@
 ---
 title: JKM Visit Scheduling System
 date: 2025-09-08
+weight: 9
 summary: A field visit scheduling system to optimize Death Benefit (JKM) claims at BPJS Ketenagakerjaan.
 tags:
   - Web Development
@@ -91,7 +92,7 @@ links:
 
 ## About the Project
 <p style="font-size: 1.1rem; line-height: 1.8; color: #b3b3b3; text-align: justify;">
-  <strong>JKM Visit Scheduling System</strong> is a web-based application specifically designed to optimize service operations at the BPJS Ketenagakerjaan (Social Security Administrator for Employment) Medan Kota Branch. This system serves as a solution to the challenges in field work visit management, particularly concerning the verification of <strong>Death Benefit (Jaminan Kematian - JKM)</strong> claims.
+  <strong>JKM Visit Scheduling System</strong> is a web-based application specifically designed to optimize service operations at the BPJS Ketenagakerjaan (Social Security Administrator for Employment) Medan Kota Branch. This system serves as a solution to the challenges in field work visit management, particularly concerning the verification of <strong>Death Benefit (Jaminan Kematian - JKM)</strong> 
   <br><br>
   Prior to this system, the assignment of visits to various regions was done manually, resulting in sluggish workflows, difficulties in tracking assignment statuses, and the risk of data duplication. Through this platform, administrators can structurally distribute tasks, document comprehensive visit details, and monitor assignment schedules in <em>real-time</em>. Powered by PHP and MySQL technologies, this system acts as an effective coordination tool—ensuring even task distribution, improving reporting accuracy, and ultimately enhancing the institution's overall operational quality in serving the participants' beneficiaries.
 </p>
