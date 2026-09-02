@@ -75,7 +75,7 @@ links:
 
 <div class="img-container" style="width: 100%; margin-bottom: 40px; border-radius: 20px;">
   <img src="banner.png" style="width: 100%; display: block; border-radius: 20px;">
-  <div class="zoom-icon" onclick="openModal('banner.png')">
+  <div class="zoom-icon" onclick="openModal('featured.png')">
     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
   </div>
 </div>
