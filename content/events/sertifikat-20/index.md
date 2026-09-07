@@ -1,24 +1,15 @@
 ---
 title: "Sertifikasi Kompetensi: NextGen Finance Masterclass by LPS"
 date: 2026-05-26
-
-event: "Lembaga Penjamin Simpanan (LPS) & Badan Musyawarah Perbankan Daerah Sumatera Utara"
-event_url: "https://lps.go.id"
-
-location: "Sumatera Utara, Indonesia"
+event_url: https://lps.go.id
+location: Sumatera Utara, Indonesia
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat partisipasi Masterclass dari Kantor Perwakilan Lembaga Penjamin Simpanan I mengenai ketahanan finansial dan penerapan Artificial Intelligence dalam industri keuangan generasi masa depan."
-
-# Waktu pelaksanaan mengikuti tanggal terbit sertifikat Anda (25-26 Mei 2026)
+  country: Indonesia
+summary: Sertifikat partisipasi Masterclass dari Kantor Perwakilan Lembaga Penjamin Simpanan I mengenai ketahanan finansial dan penerapan Artificial Intelligence dalam industri keuangan generasi masa depan.
 event_start: 2026-05-25
 event_end: 2026-05-26
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Financial Technology
@@ -26,13 +17,14 @@ tags:
   - Financial Resilience
   - LPS
   - NextGen Finance
-
 featured: true
-
 image:
-  caption: "Sertifikat NextGen Finance Masterclass (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat NextGen Finance Masterclass (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: Lembaga Penjamin Simpanan (LPS) & Badan Musyawarah Perbankan Daerah Sumatera Utara
 ---
+
 
 ## Deskripsi Sertifikasi Kompetensi
 

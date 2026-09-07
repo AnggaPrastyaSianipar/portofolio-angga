@@ -1,35 +1,27 @@
 ---
 title: "Sertifikasi Kompetensi BNSP: Ilmuwan Data Muda (Associate Data Scientist)"
 date: 2026-01-14
-
-event: "Badan Nasional Sertifikasi Profesi (BNSP) - LSP Digital Technology"
-event_url: "https://bnsp.go.id"
-
-location: "Lembaga Sertifikasi Profesi (LSP) Teknologi Digital"
+event_url: https://bnsp.go.id
+location: Lembaga Sertifikasi Profesi (LSP) Teknologi Digital
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat Kompetensi Nasional (Serkom) resmi dari BNSP yang menyatakan KOMPETEN dalam bidang Sains Data (Data Science)."
-
-# Waktu pelaksanaan mengikuti tanggal terbit sertifikat Anda (14 Januari 2026)
+  country: Indonesia
+summary: Sertifikat Kompetensi Nasional (Serkom) resmi dari BNSP yang menyatakan KOMPETEN dalam bidang Sains Data (Data Science).
 event_start: 2026-01-14
 event_end: 2026-01-14
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Data Science
   - BNSP
-
 featured: true
-
 image:
-  caption: "Sertifikat Kompetensi BNSP Data Science (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Kompetensi BNSP Data Science (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: Badan Nasional Sertifikasi Profesi (BNSP) - LSP Digital Technology
 ---
+
 
 ## Deskripsi Sertifikasi Kompetensi
 

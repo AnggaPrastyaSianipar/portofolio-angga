@@ -1,35 +1,27 @@
 ---
 title: "Sertifikat Kompetensi: Meniti Karier sebagai Software Developer"
 date: 2024-11-28
-
-event: "Dicoding Academy Indonesia"
-event_url: "https://dicoding.com"
-
-location: "Dicoding Indonesia"
+event_url: https://dicoding.com
+location: Dicoding Indonesia
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat kompetensi kelulusan dari Dicoding Academy yang memvalidasi pemahaman komprehensif mengenai jalur karier, standar industri, dan strategi profesional sebagai Software Developer."
-
-# Waktu pelaksanaan berdasarkan tanggal kelulusan sertifikat Anda (28 November 2024)
+  country: Indonesia
+summary: Sertifikat kompetensi kelulusan dari Dicoding Academy yang memvalidasi pemahaman komprehensif mengenai jalur karier, standar industri, dan strategi profesional sebagai Software Developer.
 event_start: 2024-11-28
 event_end: 2024-11-28
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Software Engineering
   - Dicoding
-
 featured: true
-
 image:
-  caption: "Sertifikat Dicoding Meniti Karier Software Developer (Klik gambar untuk Mode Theater Ultra HD)"
-  focal_point: "Center"
+  caption: Sertifikat Dicoding Meniti Karier Software Developer (Klik gambar untuk Mode Theater Ultra HD)
+  focal_point: Center
+event_all_day: true
+event_name: Dicoding Academy Indonesia
 ---
+
 
 ##  Deskripsi Sertifikasi Kompetensi
 
