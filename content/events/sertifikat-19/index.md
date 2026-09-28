@@ -1,24 +1,15 @@
 ---
 title: "Sertifikasi Kompetensi: Belajar Dasar Pemrograman Web"
 date: 2024-09-26
-
-event: "Dicoding Indonesia - Google Developers Authorized Training Partner"
-event_url: "https://dicoding.com"
-
-location: "Dicoding Academy Indonesia"
+event_url: https://dicoding.com
+location: Dicoding Academy Indonesia
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat Kompetensi Kelulusan resmi dari Dicoding Indonesia dengan kurikulum standar Google Developers untuk penguasaan struktur Semantic HTML5, styling CSS3, dan arsitektur Layout Responsive Flexbox."
-
-# Waktu pelaksanaan mengikuti tanggal terbit sertifikat Anda (26 September 2024)
+  country: Indonesia
+summary: Sertifikat Kompetensi Kelulusan resmi dari Dicoding Indonesia dengan kurikulum standar Google Developers untuk penguasaan struktur Semantic HTML5, styling CSS3, dan arsitektur Layout Responsive Flexbox.
 event_start: 2024-09-26
 event_end: 2024-09-26
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Web Development
@@ -26,13 +17,14 @@ tags:
   - CSS3
   - Flexbox
   - Google Developers
-
 featured: true
-
 image:
-  caption: "Sertifikat Dicoding Belajar Dasar Pemrograman Web (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Dicoding Belajar Dasar Pemrograman Web (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: Dicoding Indonesia - Google Developers Authorized Training Partner
 ---
+
 
 ## Deskripsi Sertifikasi Kompetensi
 

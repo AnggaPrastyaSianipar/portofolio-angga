@@ -1,37 +1,29 @@
 ---
 title: "Sertifikasi Kompetensi: Belajar Dasar Pemrograman JavaScript"
 date: 2024-10-03
-
-event: "Dicoding Indonesia - AWS Cloud Readliness Partner"
-event_url: "https://dicoding.com"
-
-location: "Dicoding Academy Indonesia"
+event_url: https://dicoding.com
+location: Dicoding Academy Indonesia
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat Kompetensi Kelulusan resmi dari Dicoding Indonesia untuk penguasaan fundamental pemrograman JavaScript sebagai fondasi utama Web dan Back-End Development (Node.js) sesuai standar industri divalidasi AWS."
-
-# Waktu pelaksanaan mengikuti tanggal terbit sertifikat Anda (03 Oktober 2024)
+  country: Indonesia
+summary: Sertifikat Kompetensi Kelulusan resmi dari Dicoding Indonesia untuk penguasaan fundamental pemrograman JavaScript sebagai fondasi utama Web dan Back-End Development (Node.js) sesuai standar industri divalidasi AWS.
 event_start: 2024-10-03
 event_end: 2024-10-03
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - JavaScript
   - Programming Dasar
   - Node.js
   - AWS
-
 featured: true
-
 image:
-  caption: "Sertifikat Dicoding Dasar Pemrograman JavaScript (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Dicoding Dasar Pemrograman JavaScript (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: Dicoding Indonesia - AWS Cloud Readliness Partner
 ---
+
 
 ## Deskripsi Sertifikasi Kompetensi
 
