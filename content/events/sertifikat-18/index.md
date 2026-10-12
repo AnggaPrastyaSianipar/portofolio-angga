@@ -1,24 +1,15 @@
 ---
 title: "Sertifikasi Kompetensi: Belajar Fundamental Front-End Web Development"
 date: 2024-11-02
-
-event: "Dicoding Indonesia - Google Developers Authorized Training Partner"
-event_url: "https://dicoding.com"
-
-location: "Dicoding Academy Indonesia"
+event_url: https://dicoding.com
+location: Dicoding Academy Indonesia
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat Kompetensi Resmi dari Dicoding Indonesia dengan kurikulum standar Google Developers untuk penguasaan arsitektur ES6+, Web Components yang reusable, Package Manager, Module Bundler (Webpack), dan AJAX/Fetch API."
-
-# Waktu pelaksanaan mengikuti tanggal terbit sertifikat Anda (02 November 2024)
+  country: Indonesia
+summary: Sertifikat Kompetensi Resmi dari Dicoding Indonesia dengan kurikulum standar Google Developers untuk penguasaan arsitektur ES6+, Web Components yang reusable, Package Manager, Module Bundler (Webpack), dan AJAX/Fetch API.
 event_start: 2024-11-02
 event_end: 2024-11-02
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Front-End Development
@@ -26,13 +17,14 @@ tags:
   - Webpack
   - ES6
   - Google Developers
-
 featured: true
-
 image:
-  caption: "Sertifikat Dicoding Fundamental Front-End Web Development (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Dicoding Fundamental Front-End Web Development (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: Dicoding Indonesia - Google Developers Authorized Training Partner
 ---
+
 
 ## Deskripsi Sertifikasi Kompetensi
 
