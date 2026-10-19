@@ -1,37 +1,29 @@
 ---
 title: "Sertifikat Pelatihan Digital Talent Scholarship: Pengantar Mindset Digital 1"
 date: 2025-11-27
-
-event: "Pusat Pengembangan Literasi Digital - Kementerian Komunikasi dan Digital"
-event_url: "https://digitalent.kominfo.go.id"
-
-location: "Pusat Pengembangan Literasi Digital, KOMDIGI"
+event_url: https://digitalent.kominfo.go.id
+location: Pusat Pengembangan Literasi Digital, KOMDIGI
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat Resmi Pelatihan Micro Skill dari KOMDIGI yang memvalidasi pemahaman fundamental transformasi pola pikir digital untuk masa depan."
-
-# Waktu pelaksanaan mengikuti tahun pelatihan Anda (27 November 2025)
+  country: Indonesia
+summary: Sertifikat Resmi Pelatihan Micro Skill dari KOMDIGI yang memvalidasi pemahaman fundamental transformasi pola pikir digital untuk masa depan.
 event_start: 2025-11-27
 event_end: 2025-11-27
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Digital Mindset
   - Literasi Digital
   - KOMDIGI
   - Digital Talent Scholarship
-
 featured: true
-
 image:
-  caption: "Sertifikat Pelatihan KOMDIGI Mindset Digital (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Pelatihan KOMDIGI Mindset Digital (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: Pusat Pengembangan Literasi Digital - Kementerian Komunikasi dan Digital
 ---
+
 
 ## 📜 Deskripsi Pelatihan Kompetensi
 
