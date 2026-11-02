@@ -1,35 +1,27 @@
 ---
 title: "Sertifikat Pelatihan Micro Skills: AI Engineer For Milenial"
 date: 2024-12-03
-
-event: "Digital Talent Scholarship - Kementerian Komunikasi dan Informatika"
-event_url: "https://digitalent.kominfo.go.id"
-
-location: "Badan Pengembangan SDM Kominfo"
+event_url: https://digitalent.kominfo.go.id
+location: Badan Pengembangan SDM Kominfo
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat resmi dari DTS KOMINFO atas penyelesaian program pelatihan kompetensi kilat dalam skema kecerdasan buatan (Artificial Intelligence Engineer)."
-
-# Waktu pelaksanaan berdasarkan tanggal sertifikat Anda (03 Desember 2024)
+  country: Indonesia
+summary: Sertifikat resmi dari DTS KOMINFO atas penyelesaian program pelatihan kompetensi kilat dalam skema kecerdasan buatan (Artificial Intelligence Engineer).
 event_start: 2024-12-03
 event_end: 2024-12-03
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Artificial Intelligence
   - Kominfo
-
 featured: true
-
 image:
-  caption: "Sertifikat Micro Skills AI Engineer Kominfo (Klik gambar untuk Mode Theater Ultra HD)"
-  focal_point: "Center"
+  caption: Sertifikat Micro Skills AI Engineer Kominfo (Klik gambar untuk Mode Theater Ultra HD)
+  focal_point: Center
+event_all_day: true
+event_name: Digital Talent Scholarship - Kementerian Komunikasi dan Informatika
 ---
+
 
 ## 📜 Detail Pelatihan Micro Skills
 
