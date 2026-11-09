@@ -1,36 +1,28 @@
 ---
-title: "Piagam Penghargaan Lulusan Predikat CUMLAUDE"
+title: Piagam Penghargaan Lulusan Predikat CUMLAUDE
 date: 2026-05-07
-
-event: "Universitas Methodist Indonesia"
-event_url: "https://www.methodist.ac.id"
-
-location: "Fakultas Ilmu Komputer, UMI"
+event_url: https://www.methodist.ac.id
+location: Fakultas Ilmu Komputer, UMI
 address:
-  city: "Medan"
-  country: "Indonesia"
-
-summary: "Piagam penghargaan akademis tertinggi dari Universitas Methodist Indonesia atas pencapaian kelulusan dengan predikat CUMLAUDE pada Program Studi S1 Teknik Informatika dengan IPK 3,85 dalam waktu 3,5 tahun."
-
-# Waktu pelaksanaan mengikuti tanggal terbit piagam Anda (07 Mei 2026)
+  city: Medan
+  country: Indonesia
+summary: Piagam penghargaan akademis tertinggi dari Universitas Methodist Indonesia atas pencapaian kelulusan dengan predikat CUMLAUDE pada Program Studi S1 Teknik Informatika dengan IPK 3,85 dalam waktu 3,5 tahun.
 event_start: 2026-05-07
 event_end: 2026-05-07
-all_day: true
-
 authors:
   - me
-
 tags:
   - Award
   - Academic
   - Informatics Engineering
-
 featured: true
-
 image:
-  caption: "Piagam Penghargaan Cumlaude UMI (Klik gambar untuk Mode Theater Ultra HD)"
-  focal_point: "Center"
+  caption: Piagam Penghargaan Cumlaude UMI (Klik gambar untuk Mode Theater Ultra HD)
+  focal_point: Center
+event_all_day: true
+event_name: Universitas Methodist Indonesia
 ---
+
 
 ## 📜 Detail Penghargaan Akademis
 

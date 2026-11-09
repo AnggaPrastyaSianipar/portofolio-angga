@@ -1,37 +1,29 @@
 ---
 title: "Sertifikat Pelatihan Digital Talent Scholarship: Video Content Creator Mastery"
 date: 2024-12-09
-
-event: "BBPSDMP Medan - Kementerian Komunikasi dan Informatika"
-event_url: "https://digitalent.kominfo.go.id"
-
-location: "Balai Besar Pengembangan Sumber Daya Manusia dan Penelitian (BBPSDMP) Medan"
+event_url: https://digitalent.kominfo.go.id
+location: Balai Besar Pengembangan Sumber Daya Manusia dan Penelitian (BBPSDMP) Medan
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat Pelatihan Resmi Thematic Academy (TA) dari KOMINFO yang memvalidasi penguasaan produksi konten video, teknik editing lanjut, dan strategi promosi digital."
-
-# Waktu pelaksanaan mengikuti tanggal pelatihan Anda (29-30 November 2024)
+  country: Indonesia
+summary: Sertifikat Pelatihan Resmi Thematic Academy (TA) dari KOMINFO yang memvalidasi penguasaan produksi konten video, teknik editing lanjut, dan strategi promosi digital.
 event_start: 2024-11-29
 event_end: 2024-11-30
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Content Creator
   - Video Editing
   - KOMINFO
   - Digital Talent Scholarship
-
 featured: true
-
 image:
-  caption: "Sertifikat Pelatihan KOMINFO Video Content Creator Mastery (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Pelatihan KOMINFO Video Content Creator Mastery (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: BBPSDMP Medan - Kementerian Komunikasi dan Informatika
 ---
+
 
 ## 📜 Deskripsi Pelatihan Kompetensi
 

@@ -1,37 +1,29 @@
 ---
 title: "Sertifikasi Kompetensi: Build an AI Agent"
 date: 2026-06-02
-
-event: "IBM SkillsBuild"
-event_url: "https://skillsbuild.org"
-
-location: "IBM SkillsBuild Platform"
+event_url: https://skillsbuild.org
+location: IBM SkillsBuild Platform
 address:
-  country: "Online"
-
-summary: "Sertifikat kompetensi resmi dari IBM SkillsBuild untuk keberhasilan menyelesaikan kursus dalam membangun dan mengembangkan agen kecerdasan buatan (AI Agent)."
-
-# Waktu pelaksanaan mengikuti tanggal terbit sertifikat (2 Juni 2026)
+  country: Online
+summary: Sertifikat kompetensi resmi dari IBM SkillsBuild untuk keberhasilan menyelesaikan kursus dalam membangun dan mengembangkan agen kecerdasan buatan (AI Agent).
 event_start: 2026-06-02
 event_end: 2026-06-02
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Artificial Intelligence
   - AI Agent
   - IBM
   - Machine Learning
-
 featured: true
-
 image:
   caption: "Sertifikat IBM SkillsBuild: Build an AI Agent (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  focal_point: Center
+event_all_day: true
+event_name: IBM SkillsBuild
 ---
+
 
 ## Deskripsi Sertifikasi Kompetensi
 
