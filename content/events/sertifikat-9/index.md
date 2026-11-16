@@ -1,37 +1,29 @@
 ---
 title: "Sertifikasi Kompetensi: Belajar Membuat Front-End Web untuk Pemula"
 date: 2024-10-11
-
-event: "Dicoding Indonesia"
-event_url: "https://dicoding.com"
-
-location: "Dicoding Academy Indonesia"
+event_url: https://dicoding.com
+location: Dicoding Academy Indonesia
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat Kompetensi Kelulusan resmi dari Dicoding Indonesia untuk bidang Front-End Web Development yang berfokus pada interaktivitas dinamis dan Web Storage sesuai standar industri."
-
-# Waktu pelaksanaan mengikuti tanggal terbit sertifikat Anda (11 Oktober 2024)
+  country: Indonesia
+summary: Sertifikat Kompetensi Kelulusan resmi dari Dicoding Indonesia untuk bidang Front-End Web Development yang berfokus pada interaktivitas dinamis dan Web Storage sesuai standar industri.
 event_start: 2024-10-11
 event_end: 2024-10-11
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Front-End Development
   - JavaScript
   - DOM Manipulation
   - Web Storage
-
 featured: true
-
 image:
-  caption: "Sertifikat Dicoding Front-End Web Pemula (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Dicoding Front-End Web Pemula (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: Dicoding Indonesia
 ---
+
 
 ## Deskripsi Sertifikasi Kompetensi
 

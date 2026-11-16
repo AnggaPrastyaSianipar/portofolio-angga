@@ -1,24 +1,15 @@
 ---
 title: "Sertifikasi Kompetensi: Menjadi Front-End Web Developer Expert"
 date: 2024-12-07
-
-event: "Dicoding Indonesia - Google Developers Authorized Training Partner"
-event_url: "https://dicoding.com"
-
-location: "Dicoding Academy Indonesia"
+event_url: https://dicoding.com
+location: Dicoding Academy Indonesia
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat Kompetensi Tingkat Mahir (Expert) resmi dari Dicoding Indonesia dengan standar Google Developers untuk pembangunan Progressive Web Apps (PWA), Automation Testing, dan CI/CD."
-
-# Waktu pelaksanaan mengikuti tanggal terbit sertifikat Anda (07 Desember 2024)
+  country: Indonesia
+summary: Sertifikat Kompetensi Tingkat Mahir (Expert) resmi dari Dicoding Indonesia dengan standar Google Developers untuk pembangunan Progressive Web Apps (PWA), Automation Testing, dan CI/CD.
 event_start: 2024-12-07
 event_end: 2024-12-07
-all_day: true
-
 authors:
   - me
-
 tags:
   - Certification
   - Front-End Development
@@ -26,13 +17,14 @@ tags:
   - Progressive Web Apps
   - Automation Testing
   - CI/CD
-
 featured: true
-
 image:
-  caption: "Sertifikat Dicoding Front-End Developer Expert (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Dicoding Front-End Developer Expert (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: Dicoding Indonesia - Google Developers Authorized Training Partner
 ---
+
 
 ## Deskripsi Sertifikasi Kompetensi
 

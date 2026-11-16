@@ -1,36 +1,28 @@
 ---
 title: "Sertifikat Praktek Kerja Lapangan (Magang): Biro Kesejahteraan Rakyat Setda Provsu"
 date: 2025-03-07
-
-event: "Biro Kesejahteraan Rakyat - Sekretariat Daerah Provinsi Sumatera Utara"
-event_url: "https://sumutprov.go.id"
-
-location: "Kantor Gubernur Sumatera Utara, Biro Kesejahteraan Rakyat Setda Provsu"
+event_url: https://sumutprov.go.id
+location: Kantor Gubernur Sumatera Utara, Biro Kesejahteraan Rakyat Setda Provsu
 address:
-  country: "Indonesia"
-
-summary: "Sertifikat resmi Praktek Kerja Lapangan (PKL) / Magang melalui program Kampus Merdeka di Biro Kesejahteraan Rakyat Sekretariat Daerah Provinsi Sumatera Utara."
-
-# Waktu pelaksanaan mengikuti tanggal magang Anda (10 Februari 2025 - 7 Maret 2025)
+  country: Indonesia
+summary: Sertifikat resmi Praktek Kerja Lapangan (PKL) / Magang melalui program Kampus Merdeka di Biro Kesejahteraan Rakyat Sekretariat Daerah Provinsi Sumatera Utara.
 event_start: 2025-02-10
 event_end: 2025-03-07
-all_day: true
-
 authors:
   - me
-
 tags:
   - Internship
   - Kampus Merdeka
   - Government
   - Sumatera Utara
-
 featured: true
-
 image:
-  caption: "Sertifikat Magang Kantor Gubernur Sumut (Klik gambar untuk Mode Theater HD)"
-  focal_point: "Center"
+  caption: Sertifikat Magang Kantor Gubernur Sumut (Klik gambar untuk Mode Theater HD)
+  focal_point: Center
+event_all_day: true
+event_name: Biro Kesejahteraan Rakyat - Sekretariat Daerah Provinsi Sumatera Utara
 ---
+
 
 ## 📜 Deskripsi Praktek Kerja Lapangan
 
